@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/frankwuzp/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api?username=frankwuzp&show_icons=true&show_owner=true&count_private=true&locale=cn" />
+  <img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api?username=frankwuzp&show_icons=true&show_owner=true&count_private=true&locale=en" />
 </a>
 <p></p>
 <a href="https://github.com/frankwuzp/">
-  <img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api/top-langs/?username=frankwuzp&layout=compact&locale=cn" />
+  <img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api/top-langs/?username=frankwuzp&layout=compact&locale=en" />
 </a>
