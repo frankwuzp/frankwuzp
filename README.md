@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 </a>
 <p></p>
 <a href="https://github.com/frankwuzp/">
-  <img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api/top-langs/?username=frankwuzp" />
+  <img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api/top-langs/?username=frankwuzp&layout=compact" />
 </a>
