@@ -22,5 +22,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api?username=frankwuzp&show_icons=true&show_owner=true&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/frankwuzp/">
-  <img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api/top-langs/?username=frankwuzp&card_width=default" />
+  <img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api/top-langs/?username=frankwuzp" />
 </a>
