@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankwuzp&layout=compact)](https://github.com/frankwuzp/github-readme-stats)
 
 <a href="https://github.com/frankwuzp/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&show_icons=true&show_owner=true&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api?username=frankwuzp&show_icons=true&show_owner=true&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/frankwuzp/">
-  <img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&card_width=120px" />
+  <img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api?username=frankwuzp&card_width=120px" />
 </a>
