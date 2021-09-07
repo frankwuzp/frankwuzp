@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/frankwuzp/github-readme-stats">
   <img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&show_icons=true&show_owner=true&count_private=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/frankwuzp/convoychat">
+<a href="https://github.com/frankwuzp/">
   <img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&card_width=120px" />
 </a>
