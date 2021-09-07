@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats-frankwuzp.vercel.app/api?username=frankwuzp&show_icons=true&show_owner=true)](https://github.com/frankwuzp/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankwuzp&layout=compact)](https://github.com/frankwuzp/github-readme-stats)
