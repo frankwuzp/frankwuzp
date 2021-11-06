@@ -40,3 +40,6 @@ Here are some ideas to get you started:
 - [资源 | 博客配图网站推荐](https://m.wuzhiping.top/p/302b912c.html)
 - [使用公钥连接 SSH](https://m.wuzhiping.top/p/6d21cf19.html)
 <!-- BLOG-POST-LIST:END -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
