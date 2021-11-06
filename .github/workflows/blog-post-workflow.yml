@@ -20,5 +20,4 @@ jobs:
           commit_message: 🚀 Updated blog posts
           committer_username: frankwuzp
           date_format: UTC:ddd mmm dd yyyy HH:MM TT
-          template: - $randomEmoji(💯,🔥,💫,🚀,🌮) - $date $newline
-          
+          template: - $randomEmoji(💯,🔥,💫,🚀,🌮) $title - $date $newline
