@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 
 Here are some of  my projects:
 
-<a href="https://github.com/frankwuzp/coursera-host">
+| <a href="https://github.com/frankwuzp/coursera-host">
   <img align="left" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=coursera-host" />
-</a>
-<a href="https://github.com/frankwuzp/github-host">
+</a> | <a href="https://github.com/frankwuzp/github-host">
   <img align="right" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=github-host" />
-</a>
-<a href="https://github.com/frankwuzp/docker-compose-files">
+</a> |
+| -------- | -------- |
+| <a href="https://github.com/frankwuzp/docker-compose-files">
   <img align="left" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=docker-compose-files" />
-</a>
+</a> |  |
+|  |  |
