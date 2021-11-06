@@ -21,5 +21,5 @@ jobs:
           committer_username: frankwuzp
           date_format: UTC:ddd mmm dd yyyy HH:MM TT
           tag_post_pre_newline:	"true"
-          template: $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url) - $date
+          template: - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url) - $date $newline
           
