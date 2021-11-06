@@ -48,4 +48,78 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 786 Contributions in the Year 2021
+ > 
+> 📦 176.8 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 55 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    83 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.37% 
+🌆 Daytime    207 commits    ██████████░░░░░░░░░░░░░░░   40.83% 
+🌃 Evening    174 commits    ████████░░░░░░░░░░░░░░░░░   34.32% 
+🌙 Night      43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.48%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.07% 
+Tuesday      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
+Wednesday    76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
+Thursday     79 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
+Friday       107 commits    █████░░░░░░░░░░░░░░░░░░░░   21.1% 
+Saturday     93 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.34% 
+Sunday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.09%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               4 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
+HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/frankwuzp/frankwuzp/main/charts/bar_graph.png) 
+
+
+ Last Updated on 06/11/2021
 <!--END_SECTION:waka-->
