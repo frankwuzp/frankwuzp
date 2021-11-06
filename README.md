@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 | <a href="https://github.com/frankwuzp/github-readme-stats"><img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api?username=frankwuzp&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true&locale=en" alt="Frank.Wu's github stats" /></a> | <a href="https://github.com/frankwuzp/"><img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api/top-langs/?username=frankwuzp&layout=compact&theme=buefy&hide_border=true&locale=en" /></a> |
 | ------------- | ------------- |
 
-🎈 附上我的代表项目：
+🎈 附上我折腾出的项目：
 
  Here are some of my projects:
 
