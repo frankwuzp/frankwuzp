@@ -64,20 +64,6 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/frankwuzp/frankwuzp/main/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 </details> 
 </br>
