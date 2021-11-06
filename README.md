@@ -22,6 +22,7 @@ Here are some of  my projects:
 
 <a href="https://github.com/frankwuzp/coursera-host">
   <img align="left" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=coursera-host" />
+</a>
 <a href="https://github.com/frankwuzp/github-host">
   <img align="right" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=github-host" />
 </a>
