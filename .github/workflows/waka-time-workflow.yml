@@ -15,16 +15,17 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: zh_CN
-          COMMIT_BY_ME: "false"
+          COMMIT_BY_ME: "true"
           COMMIT_MESSAGE: "🚀 Updated WakaTime"
           SHOW_UPDATED_DATE: "false"
           SHOW_COMMIT: "true"
           SHOW_PROFILE_VIEWS: "false"
-          SHOW_LINES_OF_CODE: "true"
+          SHOW_LINES_OF_CODE: "false"
           SHOW_LANGUAGE: "false"
+          SHOW_OS: "false"
           SHOW_PROJECTS: "false"
           SHOW_EDITORS: "false"
           SHOW_LANGUAGE_PER_REPO: "false"
           SHOW_SHORT_INFO: "false"
           SHOW_LOC_CHAR: "false"
-          IGNORED_REPOS: 
+          IGNORED_REPOS:  # example:"waka-readme-stats, my-first-repo"

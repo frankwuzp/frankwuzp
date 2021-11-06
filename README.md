@@ -23,33 +23,21 @@ Here are some ideas to get you started:
 | <a href="https://github.com/frankwuzp/github-readme-stats"><img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api?username=frankwuzp&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true&locale=en" alt="Frank.Wu's github stats" /></a> | <a href="https://github.com/frankwuzp/"><img align="center" src="https://github-readme-stats-frankwuzp.vercel.app/api/top-langs/?username=frankwuzp&layout=compact&theme=buefy&hide_border=true&locale=en" /></a> |
 | ------------- | ------------- |
 
-<!--
-🎈 附上我折腾出的项目：
--->
-🎈 Here are some of my projects:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/frankwuzp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="frankwuzp" height="30" width="40" /></a>
+<a href="https://twitter.com/@wuzhiping3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@wuzhiping3" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17224584" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17224584" height="30" width="40" /></a>
+<a href="/https://blog.wuzhiping.top/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.wuzhiping.top/atom.xml" height="30" width="40" /></a>
+</p>
 
-| <a href="https://github.com/frankwuzp/coursera-host"><img align="left" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=coursera-host&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/frankwuzp/github-host"><img align="right" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=github-host&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-| <a href="https://github.com/frankwuzp/docker-compose-files"><img align="left" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=docker-compose-files&theme=buefy&hide_border=true" /></a> |  |
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> </p>
 
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
-  
-</details> 
+  <summary><b>👀 Personal Stats </b></summary><br/>
  
-### 🖨 最新文章 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Linux 内部端口转发](https://m.wuzhiping.top/p/1b57e99d.html)
-- [markdown 进阶 | 改字体改颜色](https://m.wuzhiping.top/p/83e9f29a.html)
-- [markdown 进阶 | 改图片大小和位置](https://m.wuzhiping.top/p/36e36bdb.html)
-- [资源 | 博客配图网站推荐](https://m.wuzhiping.top/p/302b912c.html)
-- [使用公钥连接 SSH](https://m.wuzhiping.top/p/6d21cf19.html)
-<!-- BLOG-POST-LIST:END -->
-
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -83,9 +71,32 @@ No Activity Tracked This Week
 
 ```
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/frankwuzp/frankwuzp/main/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
+</details> 
+</br>
+
+<details>
+  <summary>
+    <!--
+🎈 附上我折腾出的项目：
+    -->
+    <b>🎈 Here Are Some of My Projects:</b>
+  </summary></br>
+
+| <a href="https://github.com/frankwuzp/coursera-host"><img align="left" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=coursera-host&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/frankwuzp/github-host"><img align="right" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=github-host&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+| <a href="https://github.com/frankwuzp/docker-compose-files"><img align="left" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=docker-compose-files&theme=buefy&hide_border=true" /></a> |  |
+
+</details>
+</br>
+
+### 🖨 最新文章 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Linux 内部端口转发](https://m.wuzhiping.top/p/1b57e99d.html)
+- [markdown 进阶 | 改字体改颜色](https://m.wuzhiping.top/p/83e9f29a.html)
+- [markdown 进阶 | 改图片大小和位置](https://m.wuzhiping.top/p/36e36bdb.html)
+- [资源 | 博客配图网站推荐](https://m.wuzhiping.top/p/302b912c.html)
+- [使用公钥连接 SSH](https://m.wuzhiping.top/p/6d21cf19.html)
+<!-- BLOG-POST-LIST:END -->
+
+
