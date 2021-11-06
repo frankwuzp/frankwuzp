@@ -15,10 +15,11 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://blog.wuzhiping.top/atom.xml"
-          enable_keepalive: true
+          enable_keepalive: "true"
           gh_token:   ${{ secrets.GITHUB_TOKEN }}
           commit_message: 🚀 Updated blog posts
           committer_username: frankwuzp
-          date_format: UTC:ddd mmm dd yyyy h:MM TT	
+          date_format: UTC:ddd mmm dd yyyy HH:MM TT
+          tag_post_pre_newline:	"true"
           template: $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url) - $date
           
