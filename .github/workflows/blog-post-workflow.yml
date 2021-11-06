@@ -18,4 +18,5 @@ jobs:
           enable_keepalive: true
           gh_token:   ${{ secrets.GITHUB_TOKEN }}
           commit_message: 🚀 Updated with the latest blog posts
+          commit_user: frankwuzp
           
