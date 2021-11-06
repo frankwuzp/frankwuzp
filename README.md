@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 Here are some of  my projects:
 
-[![Readme Card](https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=coursera-host&hide_rank=true&)](https://github.com/frankwuzp/coursera-host)
+[![Readme Card](https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=coursera-host&hide_rank=true&card_width=80)](https://github.com/frankwuzp/coursera-host)
