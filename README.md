@@ -20,4 +20,11 @@ Here are some ideas to get you started:
 
 Here are some of  my projects:
 
-[![Readme Card](https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=coursera-host&hide_rank=true&card_width=80)](https://github.com/frankwuzp/coursera-host)
+<a href="https://github.com/frankwuzp/coursera-host">
+  <img align="left" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=coursera-host" />
+<a href="https://github.com/frankwuzp/github-host">
+  <img align="right" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=github-host" />
+</a>
+<a href="https://github.com/frankwuzp/docker-compose-files">
+  <img align="left" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=docker-compose-files" />
+</a>
