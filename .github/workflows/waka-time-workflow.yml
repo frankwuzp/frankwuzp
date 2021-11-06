@@ -6,7 +6,7 @@ on:
     - cron: '0 16 * * *'
   workflow_dispatch:
 jobs:
-  update-readme:
+  update-readme-with-waka:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
@@ -14,4 +14,17 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LOCALE: zh_CN
+          COMMIT_BY_ME: "false"
+          COMMIT_MESSAGE: "🚀 Updated WakaTime"
+          SHOW_UPDATED_DATE: "false"
           SHOW_COMMIT: "true"
+          SHOW_PROFILE_VIEWS: "false"
+          SHOW_LINES_OF_CODE: "true"
+          SHOW_LANGUAGE: "false"
+          SHOW_PROJECTS: "false"
+          SHOW_EDITORS: "false"
+          SHOW_LANGUAGE_PER_REPO: "false"
+          SHOW_SHORT_INFO: "false"
+          SHOW_LOC_CHAR: "false"
+          IGNORED_REPOS: 
