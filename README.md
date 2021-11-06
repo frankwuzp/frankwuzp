@@ -66,7 +66,6 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 </details> 
-</br>
 
 <details>
   <summary>
