@@ -18,6 +18,6 @@ jobs:
           enable_keepalive: true
           gh_token:   ${{ secrets.GITHUB_TOKEN }}
           commit_message: 🚀 Updated with the latest blog posts
-          committer_username: frankwuzp
-          committer_email: latitude123@outlook.com
+          committer_username: ${{ github.event.head_commit.committer.username }}
+          committer_email: ${{ github.event.head_commit.committer.email }}
           
