@@ -14,17 +14,17 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          LOCALE: zh_CN
+          LOCALE: zh
           COMMIT_BY_ME: "true"
           COMMIT_MESSAGE: "🚀 Updated WakaTime"
-          SHOW_TIMEZONE: "false"
-          SHOW_UPDATED_DATE: "false"
+          SHOW_TIMEZONE: "true"
+          SHOW_UPDATED_DATE: "true"
           SHOW_COMMIT: "true"
           SHOW_PROFILE_VIEWS: "false"
           SHOW_LINES_OF_CODE: "false"
           SHOW_LANGUAGE: "false"
           SHOW_OS: "false"
-          SHOW_PROJECTS: "false"
+          SHOW_PROJECTS: "true"
           SHOW_EDITORS: "false"
           SHOW_LANGUAGE_PER_REPO: "false"
           SHOW_SHORT_INFO: "false"
