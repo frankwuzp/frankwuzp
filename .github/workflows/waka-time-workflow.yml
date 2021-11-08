@@ -28,5 +28,5 @@ jobs:
           SHOW_EDITORS: "false"
           SHOW_LANGUAGE_PER_REPO: "false"
           SHOW_SHORT_INFO: "false"
-          SHOW_LOC_CHAR: "false"
+          SHOW_LOC_CHART: "false"
           IGNORED_REPOS:  # example:"waka-readme-stats, my-first-repo"
