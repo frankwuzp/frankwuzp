@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 | <a href="https://github.com/frankwuzp/coursera-host"><img align="left" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=coursera-host&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/frankwuzp/github-host"><img align="right" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=github-host&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-| <a href="https://github.com/frankwuzp/docker-compose-files"><img align="left" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=docker-compose-files&theme=buefy&hide_border=true" /></a> |  |
+| <a href="https://github.com/frankwuzp/docker-compose-files"><img align="left" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=docker-compose-files&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/frankwuzp/iptv-cn"><img align="left" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=iptv-cn&theme=buefy&hide_border=true" /></a> |
 
 </details>
 
