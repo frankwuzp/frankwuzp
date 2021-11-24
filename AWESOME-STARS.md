@@ -140,6 +140,7 @@
 
 ## Java 
 
+- [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
@@ -368,7 +369,7 @@
 
 ## Python 
 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 62 stars and 110 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 62 stars and 109 forks 🌟
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
@@ -422,6 +423,7 @@
 
 ## Shell 
 
+- [sbwml/alist-heroku](https://github.com/sbwml/alist-heroku) - 
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [mondediefr/docker-flarum](https://github.com/mondediefr/docker-flarum) - :speech_balloon: :whale: Docker image of Flarum
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
