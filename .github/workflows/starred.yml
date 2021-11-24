@@ -2,6 +2,7 @@ name: Update awesome-stars
 
 on:
   schedule:
+    # run at 12:42 am utc+8 
     - cron: 42 16 * * *
   workflow_dispatch:
 
