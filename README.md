@@ -105,4 +105,6 @@ getepg                   17 mins             ██░░░░░░░░░�
 - [使用公钥连接 SSH](https://m.wuzhiping.top/p/6d21cf19.html)
 <!-- BLOG-POST-LIST:END -->
 
+### :star: 标星的项目 Projects Starred By Me
 
+:point_right: [My Awesome Stars](AWESOME-STARS.md)
