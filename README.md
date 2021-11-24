@@ -101,10 +101,10 @@ getepg                   17 mins             ██░░░░░░░░░�
   <summary>
     <b>⭐ Projects Starred By Me</b>
   </summary>
-  
+  </br>
+
 👉 [MY-AWESOME-STAR](AWESOME-STARS.md)
   
-</br>
 </details>  
 
 
