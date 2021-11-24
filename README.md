@@ -87,7 +87,7 @@ getepg                   17 mins             ██░░░░░░░░░�
     <!--
 🎈 附上我折腾出的项目：
     -->
-    <b>🎈 Here Are Some of My Projects:</b>
+    <b>🎈 Here Are Some of My Projects</b>
   </summary></br>
 
 | <a href="https://github.com/frankwuzp/coursera-host"><img align="left" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=coursera-host&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/frankwuzp/github-host"><img align="right" src="https://github-readme-stats-frankwuzp.vercel.app/api/pin/?username=frankwuzp&repo=github-host&theme=buefy&hide_border=true" /></a> |
