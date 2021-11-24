@@ -107,4 +107,4 @@ getepg                   17 mins             ██░░░░░░░░░�
 
 ### :star: 标星的项目 Projects Starred By Me
 
-:point_right: [My Awesome Stars](AWESOME-STARS.md)
+    :point_right: [My Awesome Stars](AWESOME-STARS.md)
