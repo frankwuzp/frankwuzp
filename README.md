@@ -96,6 +96,17 @@ getepg                   17 mins             ██░░░░░░░░░�
 
 </details>
 
+
+<details>
+  <summary>
+    <b>⭐ Projects Starred By Me</b>
+  </summary>
+  </br>
+[MY-AWESOME-STAR](AWESOME-STARS.md)
+
+</details>  
+
+
 ### 🖨 最新文章 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Linux 内部端口转发](https://m.wuzhiping.top/p/1b57e99d.html)
@@ -104,6 +115,3 @@ getepg                   17 mins             ██░░░░░░░░░�
 - [资源 | 博客配图网站推荐](https://m.wuzhiping.top/p/302b912c.html)
 - [使用公钥连接 SSH](https://m.wuzhiping.top/p/6d21cf19.html)
 <!-- BLOG-POST-LIST:END -->
-
-### :star: [标星的项目 Projects Starred By Me](AWESOME-STARS.md)
-
