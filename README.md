@@ -103,7 +103,7 @@ getepg                   17 mins             ██░░░░░░░░░�
   </summary>
   </br>
 
-👉 [MY-AWESOME-STAR](AWESOME-STARS.md)
+👉 [My Awesome Stars](AWESOME-STARS.md)
   
 </details>  
 
