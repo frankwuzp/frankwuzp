@@ -36,6 +36,7 @@
 
 ## C 
 
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 - [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience.
@@ -53,6 +54,7 @@
 
 ## C# # 
 
+- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
 - [caryyu/jellyfin-plugin-opendouban](https://github.com/caryyu/jellyfin-plugin-opendouban) - Douban metadata provider for Jellyfin
@@ -100,6 +102,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-heimdall](https://github.com/linuxserver/docker-heimdall) - 
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
 - [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 
@@ -153,6 +156,7 @@
 
 ## JavaScript 
 
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [magicmark/composerize](https://github.com/magicmark/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
@@ -260,6 +264,8 @@
 
 ## Others 
 
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+- [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
 - [caiyongji/emoji-list](https://github.com/caiyongji/emoji-list) - emoji list; emoji表情列表
 - [LiuYi0526/IPTV](https://github.com/LiuYi0526/IPTV) - Live TV m3u
 - [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
@@ -339,7 +345,7 @@
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [AIHackers/PythonStartUp](https://github.com/AIHackers/PythonStartUp) - Python 课程入学任务提交处
 - [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - [已停止服务] 给微信公众号生成 RSS 订阅源
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 科学上网/自由上网/翻墙/软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，vps一键搭建翻墙服务器脚本/教程
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙/科学上网/自由上网/软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，vps一键搭建翻墙服务器脚本/教程
 - [DonTuttle/freev2ray](https://github.com/DonTuttle/freev2ray) - 免费v2ray账号 (长期更新)，墙裂购买教程
 - [panpanjiushiwo/OpenMindClass](https://github.com/panpanjiushiwo/OpenMindClass) - 开智越读会友。开智正典精读，越读悦读阅读。
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -371,7 +377,7 @@
 ## Python 
 
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 62 stars and 109 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 111 forks 🌟
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
@@ -418,6 +424,7 @@
 
 ## Rust 
 
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
@@ -465,6 +472,7 @@
 
 ## TypeScript 
 
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [cloudflare/images.pages.dev](https://github.com/cloudflare/images.pages.dev) - 
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
@@ -504,7 +512,7 @@
 
 ## Vue 
 
-- [chuzhixin/vue-admin-beautiful-pro](https://github.com/chuzhixin/vue-admin-beautiful-pro) - 🚀🚀🚀vue3,vue3.0,vue,vue3.x,vue.js,vue后台管理,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)
+- [chuzhixin/vue-admin-beautiful-pro](https://github.com/chuzhixin/vue-admin-beautiful-pro) - 🚀🚀🚀vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)
 - [YunYouJun/kotodama](https://github.com/YunYouJun/kotodama) - 💬 掌控言灵的魔法，一个优雅的纯静态评论管理后台
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
