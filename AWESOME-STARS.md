@@ -111,7 +111,7 @@
 
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
-- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗
+- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗
 - [Xhofe/alist](https://github.com/Xhofe/alist) - A file list program that supports multiple storage, powered by gin and React.
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP / 过滤假墙」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -333,7 +333,7 @@
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
-- [byoungd/English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 可能是让你受益匪浅的英语进阶指南
+- [byoungd/English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - An advanced guide to learn English that might benefit you a lot  可能是让你受益匪浅的英语进阶指南。
 - [frankwuzp/WakeLeanCloud](https://github.com/frankwuzp/WakeLeanCloud) - 自动唤醒你的LeanCloud
 - [react-guide/ETC](https://github.com/react-guide/ETC) - English to Chinese 翻译规范
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
@@ -357,7 +357,7 @@
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [AIHackers/PythonStartUp](https://github.com/AIHackers/PythonStartUp) - Python 课程入学任务提交处
 - [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - [已停止服务] 给微信公众号生成 RSS 订阅源
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙、免费翻墙、免费科学上网、免费自由上网、免费软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，vps一键搭建翻墙服务器脚本/教程
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、fanqiang、免费翻墙、免费科学上网、免费自由上网、免费软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，vps一键搭建翻墙服务器脚本/教程
 - [DonTuttle/freev2ray](https://github.com/DonTuttle/freev2ray) - 免费v2ray账号 (长期更新)，墙裂购买教程
 - [panpanjiushiwo/OpenMindClass](https://github.com/panpanjiushiwo/OpenMindClass) - 开智越读会友。开智正典精读，越读悦读阅读。
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -388,6 +388,7 @@
 
 ## Python 
 
+- [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
 - [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 62 stars and 111 forks 🌟
