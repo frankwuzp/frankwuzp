@@ -251,6 +251,7 @@
 
 ## Jupyter Notebook 
 
+- [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns
 - [bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch) - PyTorch implementation of AnimeGANv2
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + LeetCode + Kaggle
@@ -403,6 +404,7 @@
 
 ## Python 
 
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [luminoleon/epicgames-claimer](https://github.com/luminoleon/epicgames-claimer) - 自动领取Epic游戏商城每周免费游戏。
 - [niubiqigai/turtle](https://github.com/niubiqigai/turtle) - 使用python的turtle画樱花树，玫瑰，圣诞树，小猪佩奇，蛋糕，小黄人，贪吃蛇游戏61行代码
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
@@ -410,7 +412,7 @@
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 110 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 111 forks 🌟
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
@@ -554,7 +556,7 @@
 
 - [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站
-- [chuzhixin/vue-admin-beautiful-pro](https://github.com/chuzhixin/vue-admin-beautiful-pro) - 🚀🚀🚀vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)
+- [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)
 - [YunYouJun/kotodama](https://github.com/YunYouJun/kotodama) - 💬 掌控言灵的魔法，一个优雅的纯静态评论管理后台
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
