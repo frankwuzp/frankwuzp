@@ -60,6 +60,7 @@
 
 ## C# # 
 
+- [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁
 - [jynew/jynew](https://github.com/jynew/jynew) - 金庸群侠传3D重制版
 - [Planshit/Tai](https://github.com/Planshit/Tai) - 👻在Windows上记录每一个程序使用时长
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。
@@ -429,6 +430,7 @@
 
 ## Python 
 
+- [icue/DoubanImageWall](https://github.com/icue/DoubanImageWall) - 生成豆瓣电影海报墙/音乐专辑封面墙/图书封面墙。
 - [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 - [459217974/cn-holiday-ics-server](https://github.com/459217974/cn-holiday-ics-server) - A Calendar subscribe server
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
