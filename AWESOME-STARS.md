@@ -60,7 +60,7 @@
 
 ## C# # 
 
-- [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁
+- [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
 - [jynew/jynew](https://github.com/jynew/jynew) - 金庸群侠传3D重制版
 - [Planshit/Tai](https://github.com/Planshit/Tai) - 👻在Windows上记录软件使用时长
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。
