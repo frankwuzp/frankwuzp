@@ -189,6 +189,7 @@
 
 ## JavaScript 
 
+- [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [stone-lyl/bill](https://github.com/stone-lyl/bill) - 账单转换器：将支付宝、微信到处的 .csv 账单转为为记账软件（homebank）可识别的 .qif 文件。
 - [gps949/LittleLedger](https://github.com/gps949/LittleLedger) - 自用”单记式“账本应用
