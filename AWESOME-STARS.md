@@ -189,6 +189,7 @@
 
 ## JavaScript 
 
+- [AutoPiano/AutoPiano](https://github.com/AutoPiano/AutoPiano) - 自由钢琴 🎹 AutoPiano ( https://www.autopiano.cn )   Simple & Elegant Piano Online
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [stone-lyl/bill](https://github.com/stone-lyl/bill) - 账单转换器：将支付宝、微信到处的 .csv 账单转为为记账软件（homebank）可识别的 .qif 文件。
@@ -437,6 +438,7 @@
 
 ## Python 
 
+- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [icue/DoubanImageWall](https://github.com/icue/DoubanImageWall) - 生成豆瓣电影海报墙/音乐专辑封面墙/图书封面墙。
 - [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 - [459217974/cn-holiday-ics-server](https://github.com/459217974/cn-holiday-ics-server) - A Calendar subscribe server
@@ -553,6 +555,7 @@
 
 ## TypeScript 
 
+- [Saszr/rfmo](https://github.com/Saszr/rfmo) - vite+react+ts fork from flomo-浮墨
 - [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
