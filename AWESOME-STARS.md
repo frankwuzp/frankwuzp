@@ -142,7 +142,7 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
 - [Xhofe/alist](https://github.com/Xhofe/alist) - 🗂️Another file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
-- [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP / 过滤假墙」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！
+- [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -160,6 +160,7 @@
 
 ## HTML 
 
+- [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具
 - [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
 - [jimmy-byte/-HactoberFest2021-For_All_Beginers-](https://github.com/jimmy-byte/-HactoberFest2021-For_All_Beginers-) - Raise Genuine PRs, Your PRs will be accepted, Star This Repo, You aren't allowed to Update README.md
 - [BlueSkyXN/AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules) - 高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集
