@@ -61,6 +61,7 @@
 
 ## C# # 
 
+- [Planshit/ProjectEye](https://github.com/Planshit/ProjectEye) - 😎 一个基于20-20-20规则的用眼休息提醒Windows软件
 - [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
 - [jynew/jynew](https://github.com/jynew/jynew) - 金庸群侠传3D重制版
 - [Planshit/Tai](https://github.com/Planshit/Tai) - 👻在Windows上记录软件使用时长
