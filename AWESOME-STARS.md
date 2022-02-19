@@ -40,6 +40,7 @@
 
 ## C 
 
+- [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
@@ -102,6 +103,7 @@
 
 ## CSS 
 
+- [Sumandeep-Kaur/Clock](https://github.com/Sumandeep-Kaur/Clock) - Analog cum Digital Clock
 - [B-Software/Ward](https://github.com/B-Software/Ward) - Server dashboard
 - [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.
 - [apachecn/home](https://github.com/apachecn/home) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
@@ -139,7 +141,7 @@
 - [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0 / OIDC and SAML authentication, QQ group: 645200447
-- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)
+- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
@@ -177,6 +179,7 @@
 
 ## Haskell 
 
+- [feramhq/Perspec](https://github.com/feramhq/Perspec) - Scriptable desktop app to correct the perspective of images
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Java 
@@ -194,6 +197,7 @@
 
 ## JavaScript 
 
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [liyang5945/sync-player](https://github.com/liyang5945/sync-player) - a video player could synchronizing play with others 可以异地同步播放视频的播放器。
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
 - [AutoPiano/AutoPiano](https://github.com/AutoPiano/AutoPiano) - 自由钢琴 🎹 AutoPiano ( https://www.autopiano.cn )   Simple & Elegant Piano Online
@@ -372,7 +376,7 @@
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [tuyafeng/Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
 - [zhheo/Sticker-Heo](https://github.com/zhheo/Sticker-Heo) - General basic facial stickers suitable for most websites and applications.
-- [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
+- [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [BurningC4/Chinese-IPTV](https://github.com/BurningC4/Chinese-IPTV) - Chinese CCTV List (IPV4)
 - [lylehust/Chinese-IPTV](https://github.com/lylehust/Chinese-IPTV) - Chinese CCTV List (IPV6)
@@ -518,6 +522,7 @@
 
 ## SCSS 
 
+- [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for Gnome desktops
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [qnscholar/qnscholar.github.io](https://github.com/qnscholar/qnscholar.github.io) - 青柠学术 GitHub Pages.
 
@@ -571,6 +576,8 @@
 
 ## TypeScript 
 
+- [pengfeiw/threejs-case](https://github.com/pengfeiw/threejs-case) - 
+- [imcuttle/mometa](https://github.com/imcuttle/mometa) - 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [Saszr/rfmo](https://github.com/Saszr/rfmo) - vite+react+ts fork from flomo-浮墨
 - [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
