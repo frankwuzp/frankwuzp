@@ -62,6 +62,8 @@
 
 ## C# # 
 
+- [bitdust/EarthLiveSharp](https://github.com/bitdust/EarthLiveSharp) - live view of earth from space
+- [MUedsa/BluetoothLEBatteryMonitor](https://github.com/MUedsa/BluetoothLEBatteryMonitor) - Windows BluetoothLE Battery Monitor
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [Planshit/ProjectEye](https://github.com/Planshit/ProjectEye) - 😎 一个基于20-20-20规则的用眼休息提醒Windows软件
 - [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
@@ -79,7 +81,7 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 - [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - https://1.2345345.xyz/ads.html
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A V2Ray client for Windows, support Xray core and v2fly core
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows 10
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -197,7 +199,7 @@
 - [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书  2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）
 - [zxbu/webdav-aliyundriver](https://github.com/zxbu/webdav-aliyundriver) - 阿里云盘(https://www.aliyundrive.com/) 的webdav协议开源实现
-- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。
+- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [paukiatwee/budgetapp](https://github.com/paukiatwee/budgetapp) - Open source personal budgeting application
 
 ## JavaScript 
@@ -588,6 +590,7 @@
 
 ## TypeScript 
 
+- [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background
 - [pengfeiw/threejs-case](https://github.com/pengfeiw/threejs-case) - 
 - [imcuttle/mometa](https://github.com/imcuttle/mometa) - 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具
