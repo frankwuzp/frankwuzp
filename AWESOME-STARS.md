@@ -468,6 +468,7 @@
 
 ## Python 
 
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [fugary/calibre-web-douban-api](https://github.com/fugary/calibre-web-douban-api) - 新版calibre-web已经移除douban-api了，添加一个豆瓣api实现
 - [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
 - [SliShady/BingDwenDwen](https://github.com/SliShady/BingDwenDwen) - 使用python绘制冰墩墩
@@ -597,7 +598,7 @@
 
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background
-- [pengfeiw/threejs-case](https://github.com/pengfeiw/threejs-case) - 
+- [pengfeiw/threejs-case](https://github.com/pengfeiw/threejs-case) - threejs example
 - [imcuttle/mometa](https://github.com/imcuttle/mometa) - 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [Saszr/rfmo](https://github.com/Saszr/rfmo) - vite+react+ts fork from flomo-浮墨
