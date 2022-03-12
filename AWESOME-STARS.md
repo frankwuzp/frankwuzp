@@ -451,7 +451,6 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 - [peng-zhihui/PocketLCD](https://github.com/peng-zhihui/PocketLCD) - 带充电宝功能的便携显示器
-- [loyvon/awesome-origin-of-life](https://github.com/loyvon/awesome-origin-of-life) - Resources on the topic of origin of life.
 - [ouyangzhiping/awesome-cognitive-science](https://github.com/ouyangzhiping/awesome-cognitive-science) - 
 - [DcyWalker/T.C.M_AND_W.M](https://github.com/DcyWalker/T.C.M_AND_W.M) - 中医、传承、骗子、传统文化
 - [ceciliacheng/AIwriter](https://github.com/ceciliacheng/AIwriter) - 开智学堂的认知写作课
@@ -487,7 +486,7 @@
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 72 stars and 127 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 73 stars and 126 forks 🌟
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
@@ -530,6 +529,7 @@
 
 ## Ruby 
 
+- [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 
 ## Rust 
