@@ -617,6 +617,7 @@
 
 ## TypeScript 
 
+- [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [justmemos/memos](https://github.com/justmemos/memos) - An open source, self-hosted alternative to flomo.
 - [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault
 - [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
