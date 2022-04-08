@@ -368,6 +368,7 @@
 
 ## Others 
 
+- [Infatuation-Fei/rule](https://github.com/Infatuation-Fei/rule) - 自用规则
 - [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource
 - [Geekhyt/weekly](https://github.com/Geekhyt/weekly) - 前端食堂技术周刊，每周发布。🌰
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
