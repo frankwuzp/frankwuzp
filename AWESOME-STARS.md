@@ -223,6 +223,7 @@
 
 ## JavaScript 
 
+- [sqqihao/EPubBuilder](https://github.com/sqqihao/EPubBuilder) - 一款在线的epub格式书籍编辑器
 - [thomasloven/hass-fontawesome](https://github.com/thomasloven/hass-fontawesome) - 🔹 Use icons from fontawesome in home-assistant
 - [talebook/talebook](https://github.com/talebook/talebook) - A simple books website. 一个简单的在线版个人书库。
 - [hoochanlon/hoochanlon](https://github.com/hoochanlon/hoochanlon) - 这一个Hacker Style风格化的自我简介JS模板，在线效果： https://hoochanlon.github.io/hoochanlon
