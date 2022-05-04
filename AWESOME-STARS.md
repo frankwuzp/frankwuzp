@@ -345,6 +345,7 @@
 
 ## Kotlin 
 
+- [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - This is a copy of Reeder, in order to give Android an RSS reader similar to Reeder, combines the interaction logic of Reeder with the design style of Material Design 3 (You).
 - [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android
@@ -520,6 +521,9 @@
 
 ## Python 
 
+- [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
+- [rev1si0n/another-tmp-mailbox](https://github.com/rev1si0n/another-tmp-mailbox) - 还有人在用 denghongcai/forsaken-mail？这是一个全新自己部署的在线匿名邮件接收服务。
+- [pofey/movie_robot](https://github.com/pofey/movie_robot) - 轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。
 - [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools) - NAS媒体库资源归集、整理自动化工具
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
