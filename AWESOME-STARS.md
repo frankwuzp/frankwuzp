@@ -123,6 +123,7 @@
 - [qnscholar/qnscholar.github.io](https://github.com/qnscholar/qnscholar.github.io) - 青柠学术 GitHub Pages.
 - [B-Software/Ward](https://github.com/B-Software/Ward) - Server dashboard
 - [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired mag
+- [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com) - HelloGitHub.com 网站源码
 - [apachecn/home](https://github.com/apachecn/home) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [DIYgod/ttrss-theme-rsshub](https://github.com/DIYgod/ttrss-theme-rsshub) - 🍰 Lovely theme for Tiny Tiny RSS
 - [prayag17/JellySkin](https://github.com/prayag17/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web, can be used by just one line.
@@ -382,7 +383,6 @@
 
 ## Others 
 
-- [comwrg/FUCK-GFW](https://github.com/comwrg/FUCK-GFW) - 记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW
 - [Semporia/ClashX-Pro](https://github.com/Semporia/ClashX-Pro) - Clash X for Mac  自用稳定分流规则、参考配置
 - [ChirmyRam/ChirmyRam-OneDrive-Repository](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository) - ChirmyRam OneDrive Repository
 - [netsarang/Xshell-ColorScheme](https://github.com/netsarang/Xshell-ColorScheme) - 250+ Xshell Color Schemes
@@ -436,7 +436,6 @@
 - [oslook/clash-freenode](https://github.com/oslook/clash-freenode) - 🔥[Clash Config] [Free Node Subscribe]订阅地址，免费节点，定期更新，一键订阅，科学上网🚀。
 - [ffffffff0x/Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) - Information Protection & OSINT resources | 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
-- [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com) - HelloGitHub.com 网站源码
 - [gikiapp/giki.app](https://github.com/gikiapp/giki.app) - giki.app, a simple writing app.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 - [qianguyihao/document-guide](https://github.com/qianguyihao/document-guide) - 中文博客的排版指南。
@@ -555,7 +554,7 @@
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 76 stars and 133 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 76 stars and 132 forks 🌟
 - [LiuYi0526/IPTV](https://github.com/LiuYi0526/IPTV) - Live TV m3u
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
