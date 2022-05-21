@@ -389,7 +389,7 @@
 ## Others 
 
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
-- [eryajf-world/Thanks-Mirror](https://github.com/eryajf-world/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
+- [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
 - [Semporia/ClashX-Pro](https://github.com/Semporia/ClashX-Pro) - Clash X for Mac  自用稳定分流规则、参考配置
 - [ChirmyRam/ChirmyRam-OneDrive-Repository](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository) - ChirmyRam OneDrive Repository
 - [netsarang/Xshell-ColorScheme](https://github.com/netsarang/Xshell-ColorScheme) - 250+ Xshell Color Schemes
@@ -528,6 +528,7 @@
 
 ## Python 
 
+- [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 - [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
 - [rev1si0n/another-tmp-mailbox](https://github.com/rev1si0n/another-tmp-mailbox) - 还有人在用 denghongcai/forsaken-mail？这是一个全新自己部署的在线匿名邮件接收服务。
 - [pofey/movie_robot](https://github.com/pofey/movie_robot) - 轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。
@@ -689,7 +690,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
-- [justmemos/memos](https://github.com/justmemos/memos) - An open source, self-hosted knowledge base that works with a SQLite db file.
+- [usememos/memos](https://github.com/usememos/memos) - An open source, self-hosted knowledge base that works with a SQLite db file.
 - [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault
 - [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
