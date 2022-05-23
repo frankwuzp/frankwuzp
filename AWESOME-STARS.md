@@ -123,7 +123,7 @@
 - [Sumandeep-Kaur/Clock](https://github.com/Sumandeep-Kaur/Clock) - Analog cum Digital Clock
 - [qnscholar/qnscholar.github.io](https://github.com/qnscholar/qnscholar.github.io) - 青柠学术 GitHub Pages.
 - [B-Software/Ward](https://github.com/B-Software/Ward) - Server dashboard
-- [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired mag
+- [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 - [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com) - HelloGitHub.com 网站源码
 - [apachecn/home](https://github.com/apachecn/home) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [DIYgod/ttrss-theme-rsshub](https://github.com/DIYgod/ttrss-theme-rsshub) - 🍰 Lovely theme for Tiny Tiny RSS
@@ -236,7 +236,7 @@
 
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
-- [Ice-Hazymoon/hugo-theme-luna](https://github.com/Ice-Hazymoon/hugo-theme-luna) - A simple, performance-first, SEO-friendly Hugo theme / 一个轻量，快速，SEO又好的hugo主题
+- [Ice-Hazymoon/hugo-theme-luna](https://github.com/Ice-Hazymoon/hugo-theme-luna) - A simple, performance-first, SEO-friendly Hugo theme / 一个轻量，快速，SEO 友好的 Hugo 主题
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [sqqihao/EPubBuilder](https://github.com/sqqihao/EPubBuilder) - 一款在线的epub格式书籍编辑器
 - [thomasloven/hass-fontawesome](https://github.com/thomasloven/hass-fontawesome) - 🔹 Use icons from fontawesome in home-assistant
@@ -562,7 +562,7 @@
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 77 stars and 136 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 77 stars and 137 forks 🌟
 - [LiuYi0526/IPTV](https://github.com/LiuYi0526/IPTV) - Live TV m3u
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
