@@ -104,7 +104,6 @@
 ## C++ 
 
 - [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
-- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet download manager for HTTP(S), FTP(S), magnet-link, BitTorrent, ed2k, and online videos
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
@@ -224,6 +223,7 @@
 ## Java 
 
 - [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better open source survey system.
+- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
@@ -261,7 +261,7 @@
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [liyang5945/sync-player](https://github.com/liyang5945/sync-player) - a video player could synchronizing play with others 可以异地同步播放视频的播放器。
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
-- [AutoPiano/AutoPiano](https://github.com/AutoPiano/AutoPiano) - 自由钢琴 🎹 AutoPiano ( https://www.autopiano.cn )   Simple & Elegant Piano Online
+- [AutoPiano/AutoPiano](https://github.com/AutoPiano/AutoPiano) - 🎹 自由钢琴 AutoPiano - Simple & Elegant Piano Online
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [stone-lyl/bill](https://github.com/stone-lyl/bill) - 账单转换器：将支付宝、微信到处的 .csv 账单转为为记账软件（homebank）可识别的 .qif 文件。
@@ -437,7 +437,6 @@
 - [qiaohaoforever/BambooIsbn](https://github.com/qiaohaoforever/BambooIsbn) - 竹简——最全中文ISBN信息查询接口
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
-- [pcccw/Ark](https://github.com/pcccw/Ark) - 
 - [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents of FeedMe
@@ -568,7 +567,7 @@
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 77 stars and 139 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 78 stars and 140 forks 🌟
 - [LiuYi0526/IPTV](https://github.com/LiuYi0526/IPTV) - Live TV m3u
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
