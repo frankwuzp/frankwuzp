@@ -15,7 +15,6 @@
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
-- [Hack](#hack)
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -83,7 +82,7 @@
 - [Planshit/ProjectEye](https://github.com/Planshit/ProjectEye) - 😎 一个基于20-20-20规则的用眼休息提醒Windows软件
 - [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
 - [jynew/jynew](https://github.com/jynew/jynew) - 金庸群侠传3D重制版
-- [Planshit/Tai](https://github.com/Planshit/Tai) - 👻在Windows上记录软件使用时长
+- [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
@@ -162,6 +161,7 @@
 ## Go 
 
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
+- [Licoy/fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 🌏 获取github的hosts，以解决各种访问慢、卡、加载失败的问题，一键使用方便快捷！
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [BaoXuebin/beancount-gs](https://github.com/BaoXuebin/beancount-gs) - 基于 beancount 提供个人财务管理的 RESTful API 服务（包含前端页面）
@@ -209,10 +209,6 @@
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [vpnforchina/vpnforchina.github.io](https://github.com/vpnforchina/vpnforchina.github.io) - 2022中国翻墙软件和科学上网推荐指南，最新稳定好用的翻墙VPN推荐，能用的VPN梯子不多了，以及对比VPS自建梯子、SSR机场、V2ray、蓝灯、老王VPN、WireGuard等翻墙软件和科学上网方法。
 - [jdittrich/userNeedResearchBook](https://github.com/jdittrich/userNeedResearchBook) - Hands-on intro to user need research
-
-## Hack 
-
-- [Licoy/fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 🌏 获取github的hosts，以解决各种访问慢、卡、加载失败的问题，一键使用方便快捷！
 
 ## Haskell 
 
@@ -734,7 +730,7 @@
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. Roadmap https://github.com/orgs/siyuan-note/projects/1
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
