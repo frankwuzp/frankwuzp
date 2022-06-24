@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -40,6 +41,10 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+
+## AutoHotkey 
+
+- [vvyoko/SmartZip](https://github.com/vvyoko/SmartZip) - 用于扩展7-Zip的脚本
 
 ## Batchfile 
 
@@ -684,7 +689,7 @@
 - [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
-- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - 🔨 A more engineered, lightweight, customizable, standard output format commitizen adapter.
+- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - 🔨 A more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
 - [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
 - [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
 - [AitorDB/home-assistant-sun-card](https://github.com/AitorDB/home-assistant-sun-card) - Home assistant sun card based on Google weather design
