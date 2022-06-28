@@ -132,7 +132,6 @@
 - [Sumandeep-Kaur/Clock](https://github.com/Sumandeep-Kaur/Clock) - Analog cum Digital Clock
 - [qnscholar/qnscholar.github.io](https://github.com/qnscholar/qnscholar.github.io) - 青柠学术 GitHub Pages.
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
-- [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 - [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com) - HelloGitHub.com 网站源码
 - [apachecn/home](https://github.com/apachecn/home) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [DIYgod/ttrss-theme-rsshub](https://github.com/DIYgod/ttrss-theme-rsshub) - 🍰 Lovely theme for Tiny Tiny RSS
@@ -568,7 +567,7 @@
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 79 stars and 142 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 79 stars and 143 forks 🌟
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
