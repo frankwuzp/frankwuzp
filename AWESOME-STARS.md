@@ -113,6 +113,7 @@
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
+- [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet download/upload manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
@@ -205,7 +206,6 @@
 - [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
 - [bedimcode/responsive-mini-portfolio](https://github.com/bedimcode/responsive-mini-portfolio) - Responsive Mini Portfolio Website Design Using HTML CSS & JavaScript
 - [seeingtheory/Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory) - A visual introduction to probability and statistics.
-- [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet download/upload manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [shen-yu/iptv-list](https://github.com/shen-yu/iptv-list) - List of IPTV channels with the option to play them directly in the browser. 📺
 - [iptv-pro/iptv-pro.github.io](https://github.com/iptv-pro/iptv-pro.github.io) - provide iptv logo and epg
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具
