@@ -204,6 +204,7 @@
 
 ## HTML 
 
+- [Aloento/CraftServer](https://github.com/Aloento/CraftServer) - A community-based Minecraft server / 一个社区维护的自由Minecraft服务器
 - [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
 - [bedimcode/responsive-mini-portfolio](https://github.com/bedimcode/responsive-mini-portfolio) - Responsive Mini Portfolio Website Design Using HTML CSS & JavaScript
 - [seeingtheory/Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory) - A visual introduction to probability and statistics.
