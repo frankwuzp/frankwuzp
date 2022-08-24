@@ -246,6 +246,7 @@
 
 ## JavaScript 
 
+- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [ddgksf2013/Cuttlefish](https://github.com/ddgksf2013/Cuttlefish) - Scripts for self-use, ⛔️ fork
 - [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
