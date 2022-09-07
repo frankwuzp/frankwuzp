@@ -415,6 +415,7 @@
 
 ## Others 
 
+- [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [dongyubin/nuc8i5beh](https://github.com/dongyubin/nuc8i5beh) - nuc8系列黑苹果EFI，个人网站：https://chengxuxiaohei.top/
 - [zearp/Nucintosh](https://github.com/zearp/Nucintosh) - Intel NUC hackintosh stuff
