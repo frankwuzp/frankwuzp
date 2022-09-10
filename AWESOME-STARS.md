@@ -254,6 +254,7 @@
 - [Ice-Hazymoon/hugo-theme-luna](https://github.com/Ice-Hazymoon/hugo-theme-luna) - A simple, performance-first, SEO-friendly Hugo theme / 一个轻量，快速，SEO 友好的 Hugo 主题
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [sqqihao/EPubBuilder](https://github.com/sqqihao/EPubBuilder) - 一款在线的epub格式书籍编辑器
+- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
 - [thomasloven/hass-fontawesome](https://github.com/thomasloven/hass-fontawesome) - 🔹 Use icons from fontawesome in home-assistant
 - [talebook/talebook](https://github.com/talebook/talebook) - A simple books website. 一个简单的在线版个人书库。
 - [hoochanlon/hoochanlon](https://github.com/hoochanlon/hoochanlon) - 这一个Hacker Style风格化的自我简介JS模板，在线效果： https://hoochanlon.github.io/hoochanlon
@@ -564,7 +565,6 @@
 - [pofey/movie_robot](https://github.com/pofey/movie_robot) - 轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。
 - [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools) - NAS媒体库资源归集、整理自动化工具
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
 - [hacs-china/integration](https://github.com/hacs-china/integration) - 🇨🇳 HACS 极速版
 - [ironsheep/RPi-Reporter-MQTT2HA-Daemon](https://github.com/ironsheep/RPi-Reporter-MQTT2HA-Daemon) - Linux service to collect and transfer Raspberry Pi data via MQTT to Home Assistant (for RPi Monitoring)
 - [ualex73/monitor_docker](https://github.com/ualex73/monitor_docker) - Monitor Docker containers from Home Assistant
