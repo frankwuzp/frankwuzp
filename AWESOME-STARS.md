@@ -213,7 +213,7 @@
 - [iptv-pro/iptv-pro.github.io](https://github.com/iptv-pro/iptv-pro.github.io) - provide iptv logo and epg
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具
 - [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
-- [jimmy-byte/-HactoberFest2021-For_All_Beginers-](https://github.com/jimmy-byte/-HactoberFest2021-For_All_Beginers-) - Raise Genuine PRs, Your PRs will be accepted, Star This Repo, You aren't allowed to Update README.md
+- [jimmy-byte/-HactoberFest2022-For_All_Beginers-](https://github.com/jimmy-byte/-HactoberFest2022-For_All_Beginers-) - Raise Genuine PRs, Your PRs will be accepted, Star This Repo, You aren't allowed to Update README.md
 - [BlueSkyXN/AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules) - 高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集
 - [chandrikadeb7/Hacktoberfest_2021](https://github.com/chandrikadeb7/Hacktoberfest_2021) - This repository aims to help code beginners with their first successful pull request and open source contribution. Happy coding!
 - [EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
