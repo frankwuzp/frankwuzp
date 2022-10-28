@@ -251,7 +251,6 @@
 - [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [ddgksf2013/Cuttlefish](https://github.com/ddgksf2013/Cuttlefish) - Scripts for self-use, ⛔️ fork
 - [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
 - [Ice-Hazymoon/hugo-theme-luna](https://github.com/Ice-Hazymoon/hugo-theme-luna) - A simple, performance-first, SEO-friendly Hugo theme / 一个轻量，快速，SEO 友好的 Hugo 主题
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
