@@ -313,7 +313,7 @@
 - [pnpm/pnpm.github.io](https://github.com/pnpm/pnpm.github.io) - pnpm's website
 - [androidmumo/bing-serve](https://github.com/androidmumo/bing-serve) - 使用node.js构建的必应每日一图服务端
 - [xCss/bing](https://github.com/xCss/bing) - Bing 壁纸 API
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [jaredly/hexo-admin](https://github.com/jaredly/hexo-admin) - An Admin Interface for Hexo
 - [lcandy2/oSearch](https://github.com/lcandy2/oSearch) - 
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
