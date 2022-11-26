@@ -164,6 +164,7 @@
 
 - [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's Fluent Design System in Flutter.
 - [alesimula/wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## Dockerfile 
 
@@ -207,6 +208,7 @@
 
 ## HTML 
 
+- [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Aloento/CraftServer](https://github.com/Aloento/CraftServer) - A community-based Minecraft server / 一个社区维护的自由Minecraft服务器
 - [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
@@ -565,6 +567,7 @@
 
 ## Python 
 
+- [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
 - [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - :triangular_flag_on_post: 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
 - [cj1128/learn-english-with-friends](https://github.com/cj1128/learn-english-with-friends) - 🎉 排版好看并且内容准确的老友记剧本 PDF，用于学习英语~
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
@@ -652,7 +655,6 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
@@ -727,6 +729,7 @@
 
 ## TypeScript 
 
+- [meienberger/runtipi](https://github.com/meienberger/runtipi) - ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg 🔨 More engineered, lightweight, customizable, standard output format commitizen adapter and CLI
