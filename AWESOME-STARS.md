@@ -14,6 +14,7 @@
 - [Clojure](#clojure)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -173,6 +174,10 @@
 - [justxuewei/cloudreve-docker](https://github.com/justxuewei/cloudreve-docker) - Source code of Docker image for Cloudreve V3
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
 - [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
+
+## EJS 
+
+- [miiiku/hexo-theme-flexblock](https://github.com/miiiku/hexo-theme-flexblock) - 一个卡片类拟态风格的Hexo主题
 
 ## Go 
 
@@ -429,6 +434,7 @@
 
 ## Others 
 
+- [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) - 
 - [qianguyihao/Mac-list](https://github.com/qianguyihao/Mac-list) - Mac软件清单、Mac使用技巧整理，正在不断完善中。努力做到最全。
 - [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
@@ -719,7 +725,6 @@
 
 ## Stylus 
 
-- [miiiku/hexo-theme-flexblock](https://github.com/miiiku/hexo-theme-flexblock) - 一个卡片类拟态风格的Hexo主题
 - [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
 
 ## Svelte 
