@@ -262,6 +262,9 @@
 
 ## JavaScript 
 
+- [6dylan6/jdpro](https://github.com/6dylan6/jdpro) - 青龙脚本库
+- [zero205/JD_tencent_scf](https://github.com/zero205/JD_tencent_scf) - 自用脚本，随缘更新
+- [inoyna12/JDsc](https://github.com/inoyna12/JDsc) - 
 - [kelvinperrie/isitwednesday](https://github.com/kelvinperrie/isitwednesday) - ask frog if it is wednesday
 - [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
 - [Kaiser-DMr/-3D](https://github.com/Kaiser-DMr/-3D) - 李洵爱心跳动代码
