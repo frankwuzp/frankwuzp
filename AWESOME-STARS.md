@@ -450,7 +450,7 @@
 - [Cyril0563/lanjing_live](https://github.com/Cyril0563/lanjing_live) - 🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看
 - [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。
 - [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置）
-- [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) - 
+- [pvqogw/TVBoxOSC](https://github.com/pvqogw/TVBoxOSC) - 
 - [qianguyihao/Mac-list](https://github.com/qianguyihao/Mac-list) - Mac软件清单、Mac使用技巧整理，正在不断完善中。努力做到最全。
 - [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
@@ -462,7 +462,6 @@
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
 - [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
 - [Semporia/Clash](https://github.com/Semporia/Clash) - Clash for Windows & Mac  自用稳定分流规则、参考配置
-- [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 - [ChirmyRam/ChirmyRam-OneDrive-Repository](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository) - ChirmyRam OneDrive Repository
 - [netsarang/Xshell-ColorScheme](https://github.com/netsarang/Xshell-ColorScheme) - 250+ Xshell Color Schemes
 - [ljinkai/weekly](https://github.com/ljinkai/weekly) - 独立开发产品变现周刊，每周五发布。
@@ -606,6 +605,7 @@
 - [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
 - [rev1si0n/another-tmp-mailbox](https://github.com/rev1si0n/another-tmp-mailbox) - 📨 还有人在用 denghongcai/forsaken-mail？这是一个全新自己部署的在线匿名邮件接收服务。
 - [pofey/movie_robot](https://github.com/pofey/movie_robot) - 轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。
+- [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [hacs-china/integration](https://github.com/hacs-china/integration) - 🇨🇳 HACS 极速版
 - [ironsheep/RPi-Reporter-MQTT2HA-Daemon](https://github.com/ironsheep/RPi-Reporter-MQTT2HA-Daemon) - Linux service to collect and transfer Raspberry Pi data via MQTT to Home Assistant (for RPi Monitoring)
@@ -633,7 +633,7 @@
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 105 stars and 167 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 105 stars and 168 forks 🌟
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
