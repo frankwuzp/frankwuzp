@@ -150,7 +150,7 @@
 - [Sumandeep-Kaur/Clock](https://github.com/Sumandeep-Kaur/Clock) - Analog cum Digital Clock
 - [qnscholar/qnscholar.github.io](https://github.com/qnscholar/qnscholar.github.io) - 青柠学术 GitHub Pages.
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
-- [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com) - HelloGitHub.com 网站源码
+- [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com) - 旧 HelloGitHub.com 网站源码
 - [apachecn/home](https://github.com/apachecn/home) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [DIYgod/ttrss-theme-rsshub](https://github.com/DIYgod/ttrss-theme-rsshub) - 🍰 Lovely theme for Tiny Tiny RSS
 - [xiangsudian/CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/
