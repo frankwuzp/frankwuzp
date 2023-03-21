@@ -565,7 +565,6 @@
 - [AIHackers/PythonStartUp](https://github.com/AIHackers/PythonStartUp) - Python 课程入学任务提交处
 - [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - [已停止服务] 给微信公众号生成 RSS 订阅源
 - [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
-- [DonTuttle/freev2ray](https://github.com/DonTuttle/freev2ray) - 免费v2ray账号 (长期更新)，墙裂购买教程
 - [panpanjiushiwo/OpenMindClass](https://github.com/panpanjiushiwo/OpenMindClass) - 开智越读会友。开智正典精读，越读悦读阅读。
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
