@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [AppleScript](#applescript)
 - [AutoHotkey](#autohotkey)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
@@ -46,6 +47,10 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+
+## AppleScript 
+
+- [chris1111/My-Simple-OC-Themes](https://github.com/chris1111/My-Simple-OC-Themes) - Themes for use with OpenCore and OpenCanopy
 
 ## AutoHotkey 
 
@@ -141,7 +146,7 @@
 - [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
-- [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - PC版微信机器人 微信Api、WeChatApis.dll、微信聊天机器人 python微信api 微信接口 微信数据库解密
+- [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - wxhook wechathook 微信Api、WeChatApi、微信机器人 python微信api 微信接口 微信数据库解密
 
 ## CSS 
 
@@ -449,6 +454,7 @@
 
 ## Others 
 
+- [jesselau76/GPT-Prompts](https://github.com/jesselau76/GPT-Prompts) - Useful GPT Prompts
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [Cyril0563/lanjing_live](https://github.com/Cyril0563/lanjing_live) - 🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看
@@ -599,6 +605,7 @@
 
 ## Python 
 
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
 - [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - :triangular_flag_on_post: 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
@@ -767,6 +774,7 @@
 
 ## TypeScript 
 
+- [riwigefi/light-gpt](https://github.com/riwigefi/light-gpt) - Light-GPT is an interactive website project based on the GPT-3.5-Turbo Model.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
