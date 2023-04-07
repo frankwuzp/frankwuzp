@@ -120,7 +120,7 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 - [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A V2Ray client for Windows, support Xray core and v2fly core
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows 10
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -181,7 +181,6 @@
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 - [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's Fluent Design System in Flutter.
 - [alesimula/wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## Dockerfile 
 
@@ -706,6 +705,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
@@ -778,7 +778,7 @@
 
 ## TypeScript 
 
-- [weekend-project-space/chatgpt-sites](https://github.com/weekend-project-space/chatgpt-sites) - 搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新，点击下面链接探索更多ai使用技巧和应用
+- [weekend-project-space/chatgpt-sites](https://github.com/weekend-project-space/chatgpt-sites) - 搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新，点击下面链接探索更多ai使用技巧和有趣应用
 - [riwigefi/light-gpt](https://github.com/riwigefi/light-gpt) - Light-GPT is an interactive website project based on the GPT-3.5-Turbo Model.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
