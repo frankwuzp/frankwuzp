@@ -102,7 +102,7 @@
 - [emoacht/Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease
 - [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
 - [bitdust/EarthLiveSharp](https://github.com/bitdust/EarthLiveSharp) - live view of earth from space
-- [MUedsa/BluetoothLEBatteryMonitor](https://github.com/MUedsa/BluetoothLEBatteryMonitor) - Windows BluetoothLE Battery Monitor
+- [muedsa/BluetoothLEBatteryMonitor](https://github.com/muedsa/BluetoothLEBatteryMonitor) - Windows BluetoothLE Battery Monitor
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [Planshit/ProjectEye](https://github.com/Planshit/ProjectEye) - 😎 一个基于20-20-20规则的用眼休息提醒Windows软件
 - [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
@@ -462,6 +462,7 @@
 
 ## Others 
 
+- [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼
 - [davincifans101/pinduoduo_backdoor_detailed_report](https://github.com/davincifans101/pinduoduo_backdoor_detailed_report) - Maybe the most detailed analysis of pdd  backdoors
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
 - [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!
