@@ -209,7 +209,7 @@
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - 简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain)
 - [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking.
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [kmahyyg/ztncui-aio](https://github.com/kmahyyg/ztncui-aio) - Licensed Under AGPL v3
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
