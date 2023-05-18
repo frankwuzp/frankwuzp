@@ -275,7 +275,7 @@
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
-- [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）点击下方网站，马上开始刷题！
+- [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [paukiatwee/budgetapp](https://github.com/paukiatwee/budgetapp) - Open source personal budgeting application
 
@@ -468,6 +468,7 @@
 
 ## Others 
 
+- [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
 - [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼
 - [davincifans101/pinduoduo_backdoor_detailed_report](https://github.com/davincifans101/pinduoduo_backdoor_detailed_report) - Maybe the most detailed analysis of pdd  backdoors
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
@@ -582,7 +583,7 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [Spehhhhh/IADB_Scholar](https://github.com/Spehhhhh/IADB_Scholar) - 信分基建 🚧 学术数据库
-- [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) - 🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站 镜像直连 机场推荐
+- [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) - 🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站/镜像直连/机场推荐
 - [zhangdejian/MySQL_Refinement_Resource](https://github.com/zhangdejian/MySQL_Refinement_Resource) - MySQL的精进学习资源大全（每天不定时更新）
 - [lengyue1024/BAT_interviews](https://github.com/lengyue1024/BAT_interviews) - :blue_book: 分享最新BAT面试题(包含机器学习,Linux,PHP,大数据,Python,Java,前端...),持续更新ing...
 - [yumendy/NTES_MySQL_notes](https://github.com/yumendy/NTES_MySQL_notes) - 网易云课堂MySQL微专业学习笔记
@@ -663,7 +664,7 @@
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 118 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 118 stars and 171 forks 🌟
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
