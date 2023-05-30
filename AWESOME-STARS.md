@@ -196,7 +196,6 @@
 ## Go 
 
 - [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
-- [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 - [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go.
 - [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持webdav文件服务，支持JavaScript插件，支持同步备份功能。
@@ -207,7 +206,7 @@
 - [BaoXuebin/beancount-gs](https://github.com/BaoXuebin/beancount-gs) - 基于 beancount 提供个人记账财务管理的 RESTful API 服务（包含前端页面）
 - [gaocegege/double-entry-generator](https://github.com/gaocegege/double-entry-generator) - Rule-based double-entry bookkeeping importer (from Alipay/WeChat/Huobi to Beancount).
 - [deb-sig/double-entry-generator](https://github.com/deb-sig/double-entry-generator) - Rule-based double-entry bookkeeping importer (from Alipay/WeChat/Huobi etc. to Beancount/Ledger).
-- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - 简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain)
+- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - 简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云、Dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain)
 - [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
@@ -430,6 +429,7 @@
 
 ## Lua 
 
+- [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [ssnhd/rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
 - [JACKCHAN000/Rime-Quick5-Setup](https://github.com/JACKCHAN000/Rime-Quick5-Setup) - RIME 速成輸入法配置整合 for Windows小狼毫       功能：速成連打、廣東話詞庫、中英混輸、顏文字、Lua腳本
 - [wongdean/rime-settings](https://github.com/wongdean/rime-settings) - 接近原生的鼠须管 Rime 配置
