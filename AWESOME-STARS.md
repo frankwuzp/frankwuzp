@@ -196,7 +196,7 @@
 
 ## Go 
 
-- [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+- [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 - [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go.
 - [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持webdav文件服务，支持JavaScript插件，支持同步备份功能。
@@ -215,7 +215,7 @@
 - [kmahyyg/ztncui-aio](https://github.com/kmahyyg/ztncui-aio) - Licensed Under AGPL v3
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a Cloud Operating System designed for managing cloud-native applications. https://cloud.sealos.io
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -402,6 +402,7 @@
 
 ## Jupyter Notebook 
 
+- [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》
 - [isLinXu/prompt-engineering-note](https://github.com/isLinXu/prompt-engineering-note) - 🔥🔔prompt-engineering-note🔔🔥
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
