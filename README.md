@@ -108,9 +108,9 @@ Here are some ideas to get you started:
 
 ### 🖨 最新文章 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [遇见自我 | 由黑镜S6E01联想到的](https://m.wuzhiping.top/p/c896266d.html)
 - [Linux 内部端口转发](https://m.wuzhiping.top/p/1b57e99d.html)
 - [markdown 进阶 | 改字体改颜色](https://m.wuzhiping.top/p/83e9f29a.html)
 - [markdown 进阶 | 改图片大小和位置](https://m.wuzhiping.top/p/36e36bdb.html)
 - [docker 的基础操作](https://m.wuzhiping.top/p/40b28f8b.html)
-- [资源 | 博客配图网站推荐](https://m.wuzhiping.top/p/302b912c.html)
 <!-- BLOG-POST-LIST:END -->
