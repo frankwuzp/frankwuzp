@@ -151,7 +151,7 @@
 - [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
-- [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - wxhook wechathook 微信Api、WeChatApi、微信机器人 python微信api 微信接口 微信数据库解密
+- [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - wxhook wechathook 微信Api、WeChatApi、微信机器人 python微信api 微信接口 微信数据库解密 PC微信3.9
 
 ## CSS 
 
@@ -199,6 +199,7 @@
 ## Go 
 
 - [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+- [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 - [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go.
 - [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持webdav文件服务，支持JavaScript插件，支持同步备份功能。
@@ -254,7 +255,6 @@
 - [chandrikadeb7/Hacktoberfest_2021](https://github.com/chandrikadeb7/Hacktoberfest_2021) - This repository aims to help code beginners with their first successful pull request and open source contribution. Happy coding!
 - [EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
 - [appinncom/Markdown-Syntax-CN](https://github.com/appinncom/Markdown-Syntax-CN) - Markdown 语法简体中文版（fork 于繁体中文版 http://markdown.tw/ ）
-- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [vpnforchina/vpnforchina.github.io](https://github.com/vpnforchina/vpnforchina.github.io) - 2022中国翻墙软件和科学上网推荐指南，最新稳定好用的翻墙VPN推荐，能用的VPN梯子不多了，以及对比VPS自建梯子、SSR机场、V2ray、蓝灯、老王VPN、WireGuard等翻墙软件和科学上网方法。
 - [jdittrich/userNeedResearchBook](https://github.com/jdittrich/userNeedResearchBook) - Hands-on intro to user need research
 
@@ -388,6 +388,7 @@
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [l0o0/jasminum](https://github.com/l0o0/jasminum) - A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
@@ -434,7 +435,6 @@
 
 ## Lua 
 
-- [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [ssnhd/rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
 - [JACKCHAN000/Rime-Quick5-Setup](https://github.com/JACKCHAN000/Rime-Quick5-Setup) - RIME 速成輸入法配置整合 for Windows小狼毫       功能：速成連打、廣東話詞庫、中英混輸、顏文字、Lua腳本
 - [wongdean/rime-settings](https://github.com/wongdean/rime-settings) - 接近原生的鼠须管 Rime 配置
@@ -678,7 +678,7 @@
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 127 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 127 stars and 173 forks 🌟
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
