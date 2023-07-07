@@ -283,6 +283,7 @@
 
 ## JavaScript 
 
+- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [jia6y/flomo-to-obsidian](https://github.com/jia6y/flomo-to-obsidian) - Make Flomo Memos to Obsidian Notes
 - [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 内置文档系统的简约商务风Hexo主题，支持丰富的标签和动态数据组件。
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI for managing the battery charging status for M1 Macs
@@ -678,7 +679,7 @@
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 127 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 127 stars and 173 forks 🌟
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
