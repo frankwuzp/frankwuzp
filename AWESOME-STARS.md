@@ -355,7 +355,7 @@
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [pnpm/pnpm.github.io](https://github.com/pnpm/pnpm.github.io) - pnpm's website
+- [pnpm/pnpm.io](https://github.com/pnpm/pnpm.io) - pnpm's website
 - [androidmumo/bing-serve](https://github.com/androidmumo/bing-serve) - 使用node.js构建的必应每日一图服务端
 - [xCss/bing](https://github.com/xCss/bing) - Bing 壁纸 API
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
