@@ -812,6 +812,7 @@
 
 ## Stylus 
 
+- [Siricee/hexo-theme-Chic](https://github.com/Siricee/hexo-theme-Chic) - An elegant, powerful, easy-to-read Hexo theme.
 - [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
 
 ## Svelte 
