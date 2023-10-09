@@ -475,7 +475,7 @@
 
 ## Objective-C 
 
-- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎苹果系统翻译，DeepL，谷歌，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
+- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎苹果系统词典，🍎苹果系统翻译，DeepL，Google，Bing，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - A simple way to make your mouse better.
 - [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge) - 📦 Plugin, App, and Theme store which includes plugin injection for macOS
 - [tzmax/V2RayXS](https://github.com/tzmax/V2RayXS) - GUI for xray-core on macOS
@@ -783,7 +783,7 @@
 - [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [Aloento/CraftServer](https://github.com/Aloento/CraftServer) - A community-based Minecraft server / 一个社区维护的自由Minecraft服务器
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
 - [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [Jiangmenghao/NUC8i5BEH](https://github.com/Jiangmenghao/NUC8i5BEH) - NUC8i5BEH Hackintosh
