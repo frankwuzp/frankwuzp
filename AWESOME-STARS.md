@@ -489,6 +489,7 @@
 
 ## Others 
 
+- [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask) - Simple and handy overview of applications shortcuts.
 - [Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL) - 
 - [EmbraceAGI/LifeReloaded](https://github.com/EmbraceAGI/LifeReloaded) - A life simulation Game powered by GPT-4's “Advanced Data Analysis” function , offering you a second chance at life.                  由GPT4的Advanced Data Analysis功能驱动的人生重来模拟器，给您人生第二春。
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
