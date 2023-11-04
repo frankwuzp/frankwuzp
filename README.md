@@ -108,9 +108,9 @@ Here are some ideas to get you started:
 
 ### 🖨 最新文章 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [职场制胜法宝，别让默默努力成为成长路上的阻碍](https://m.wuzhiping.top/p/f3e2b544.html)
 - [好书荐读 | 保持批判性思维，让自己成为聪明人](https://m.wuzhiping.top/p/1556c25b.html)
 - [知识管理无穷尽，四步助你不迷失](https://m.wuzhiping.top/p/87b95eef.html)
 - [遇见自我 | 由黑镜S6E01联想到的](https://m.wuzhiping.top/p/c896266d.html)
 - [Linux 内部端口转发](https://m.wuzhiping.top/p/1b57e99d.html)
-- [markdown 进阶 | 改字体改颜色](https://m.wuzhiping.top/p/83e9f29a.html)
 <!-- BLOG-POST-LIST:END -->
