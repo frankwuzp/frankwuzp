@@ -478,7 +478,7 @@
 
 ## Objective-C 
 
-- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
+- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，百度，小牛和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - A simple way to make your mouse better.
 - [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge) - 📦 Plugin, App, and Theme store which includes plugin injection for macOS
 - [tzmax/V2RayXS](https://github.com/tzmax/V2RayXS) - GUI for xray-core on macOS
@@ -618,7 +618,7 @@
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
-- [ipruning/IADB_Scholar](https://github.com/ipruning/IADB_Scholar) - 信分基建 🚧 学术数据库
+- [ipruning/IADB](https://github.com/ipruning/IADB) - 信分基建 🚧 学术数据库
 - [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) - 机场推荐/SSR V2ray节点订阅机场/镜像直连/工具推荐
 - [zhangdejian/MySQL_Refinement_Resource](https://github.com/zhangdejian/MySQL_Refinement_Resource) - MySQL的精进学习资源大全（每天不定时更新）
 - [lengyue1024/BAT_interviews](https://github.com/lengyue1024/BAT_interviews) - :blue_book: 分享最新BAT面试题(包含机器学习,Linux,PHP,大数据,Python,Java,前端...),持续更新ing...
@@ -666,6 +666,7 @@
 
 ## Python 
 
+- [spiritLHLS/speedtest.net-CN-ID](https://github.com/spiritLHLS/speedtest.net-CN-ID) - speedtest.net部分地区的测速节点ID(大概每7天自动更新一次)
 - [riverscn/epghub](https://github.com/riverscn/epghub) - A multi-source EPG builder with extensibility.
 - [FlagAI-Open/Aquila2](https://github.com/FlagAI-Open/Aquila2) - The official repo of Aquila2 series proposed by BAAI, including pretrained & chat large language models.
 - [EmbraceAGI/LifeReloaded](https://github.com/EmbraceAGI/LifeReloaded) - A life simulation Game powered by GPT-4's “Advanced Data Analysis” function , offering you a second chance at life.                  由GPT4的Advanced Data Analysis功能驱动的人生重来模拟器，给您人生第二春。
