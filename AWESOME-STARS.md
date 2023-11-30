@@ -210,7 +210,7 @@
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
 - [Licoy/fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [BaoXuebin/beancount-gs](https://github.com/BaoXuebin/beancount-gs) - 基于 beancount 提供个人记账财务管理的 RESTful API 服务（包含前端页面）
 - [gaocegege/double-entry-generator](https://github.com/gaocegege/double-entry-generator) - Rule-based double-entry bookkeeping importer (from Alipay/WeChat/Huobi to Beancount).
@@ -384,7 +384,7 @@
 - [imageslr/mweb-themes](https://github.com/imageslr/mweb-themes) - 30+ 款 Markdown 预览主题，Typo.css、Vue、Bear、飞书云文档等风格，适用于 MWeb、Typora。
 - [danieladov/jellyfin-plugin-skin-manager](https://github.com/danieladov/jellyfin-plugin-skin-manager) - Jellyfin Skin Manager is a plugin that helps you to download and install skins
 - [zmzhang8/Photon](https://github.com/zmzhang8/Photon) - A lightweight multi-threaded downloader based on aria2.
-- [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - :computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)
+- [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - :computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成) B站播放量 367.3万
 - [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
 - [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
 - [hotoo/pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
@@ -518,12 +518,12 @@
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) - 
 - [qianguyihao/Mac-list](https://github.com/qianguyihao/Mac-list) - Mac软件清单、Mac使用技巧整理，正在不断完善中。努力做到最全。
-- [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go.
+- [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
 - [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer & Activited Microsoft Office For MacOS
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
-- [dongyubin/nuc8i5beh](https://github.com/dongyubin/nuc8i5beh) - nuc8系列黑苹果EFI，个人网站：https://www.wwkejishe.top
+- [dongyubin/nuc8i5beh](https://github.com/dongyubin/nuc8i5beh) - nuc8系列黑苹果EFI，个人网站：https://www.wangdu.site/
 - [zearp/Nucintosh](https://github.com/zearp/Nucintosh) - Intel NUC hackintosh stuff
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [insoxin/China-Telecom-Helper](https://github.com/insoxin/China-Telecom-Helper) - 中国电信助手,白嫖年入保底256+话费 .每月金豆领取(lv6,1000金豆),每日签到(随机金豆),每日喂食宠物.每日登录奖励领取(5金豆),查看我的云盘(10金豆),翻牌 (10金豆),查看我的订单 (5金豆),打开消息 (100金豆),当日分享 (50金豆),浏览生活频道 (5金豆),查看我的金豆 (5金豆),关注直播 (5金豆),观看直播15s (5金豆),打开消息 (100金豆),答问卷
