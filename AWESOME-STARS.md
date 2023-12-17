@@ -793,6 +793,7 @@
 
 ## Shell 
 
+- [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - RM
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 一键更换系统软件源脚本
 - [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
 - [alsyundawy/Parallels](https://github.com/alsyundawy/Parallels) - Parallels Desktop for mac
