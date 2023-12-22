@@ -108,9 +108,9 @@ Here are some ideas to get you started:
 
 ### 🖨 最新文章 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [时间都去哪了 | 年末好书荐读](https://m.wuzhiping.top/p/85f3b951.html)
 - [新年 flag，为何总是倒？](https://m.wuzhiping.top/p/a8f35679.html)
 - [学习得法，焕发无限可能 | 好书荐读](https://m.wuzhiping.top/p/403a9491.html)
 - [摆脱“马斯洛锤”的困扰 | 查理·芒格的智慧启迪](https://m.wuzhiping.top/p/6dfa1e0f.html)
 - [站在巨人肩膀上的成长密码|新人该如何借鉴前辈经验](https://m.wuzhiping.top/p/28f22e57.html)
-- [用好分类思维，在不确定中找到确定](https://m.wuzhiping.top/p/57a42de1.html)
 <!-- BLOG-POST-LIST:END -->
