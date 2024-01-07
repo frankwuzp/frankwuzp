@@ -257,7 +257,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [chandrikadeb7/Hacktoberfest_2021](https://github.com/chandrikadeb7/Hacktoberfest_2021) - This repository aims to help code beginners with their first successful pull request and open source contribution. Happy coding!
 - [EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [appinncom/Markdown-Syntax-CN](https://github.com/appinncom/Markdown-Syntax-CN) - Markdown 语法简体中文版（fork 于繁体中文版 http://markdown.tw/ ）
 - [vpnforchina/vpnforchina.github.io](https://github.com/vpnforchina/vpnforchina.github.io) - 2022中国翻墙软件和科学上网推荐指南，最新稳定好用的翻墙VPN推荐，能用的VPN梯子不多了，以及对比VPS自建梯子、SSR机场、V2ray、蓝灯、老王VPN、WireGuard等翻墙软件和科学上网方法。
 - [jdittrich/userNeedResearchBook](https://github.com/jdittrich/userNeedResearchBook) - Hands-on intro to user need research
@@ -420,6 +420,7 @@
 
 ## Jupyter Notebook 
 
+- [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 - [chenxwh/insanely-fast-whisper](https://github.com/chenxwh/insanely-fast-whisper) - Incredibly fast Whisper-large-v3
 - [LearnPrompt/LLMs-cookbook](https://github.com/LearnPrompt/LLMs-cookbook) - Examples and guides for using the LLMs
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -493,7 +494,6 @@
 ## Others 
 
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
-- [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 - [kepano/40-questions](https://github.com/kepano/40-questions) - Questions that I ask myself at the end of each year and each decade.
 - [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
 - [chika0801/sing-box-examples](https://github.com/chika0801/sing-box-examples) - sing-box 配置示例
