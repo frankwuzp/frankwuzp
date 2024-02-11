@@ -602,7 +602,6 @@
 - [pifeifei/mysql-workbench-zh-cn](https://github.com/pifeifei/mysql-workbench-zh-cn) - mysql workbench 菜单中文汉化
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [kelecn/Built-in-wallpaper](https://github.com/kelecn/Built-in-wallpaper) - 😉史上最新最全的内置壁纸仓库，包括但不限于：苹果(Apple)、安卓(Android)、谷歌(Google)、三星(Samsung)、华为(Huawei)、小米(Xiaomi)、Oppo、Vivo、一加(OnePlus)、魅族(Meizu)、联想(Lenovo)、中兴(ZTE)、摩托罗拉(Motorola)、索尼(Sony)、诺基亚(Nokia)、美图(Meitu)、LG、HTC、Elephone
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
 - [wangdoc/git-tutorial](https://github.com/wangdoc/git-tutorial) - Git 教程
 - [bobeff/programming-math-science](https://github.com/bobeff/programming-math-science) - This is a list of links to different freely available learning resources about computer programming, math, and science.
@@ -947,6 +946,7 @@
 - [Saul-Mirone/homura](https://github.com/Saul-Mirone/homura) - Homura RSS Reader
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [antfu/github-doorcat](https://github.com/antfu/github-doorcat) - 😼 Supercharges GitHub navbar for fast navigation [WIP]
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
