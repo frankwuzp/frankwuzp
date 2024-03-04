@@ -399,7 +399,6 @@
 - [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
 - [hotoo/pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [Momo707577045/m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader) - m3u8 视频在线提取工具
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [fouber/lottery](https://github.com/fouber/lottery) - 年会抽奖程序
@@ -896,7 +895,6 @@
 - [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub) - A plugin that will automatically download PDFs of zotero items from sci-hub
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
 - [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
 - [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
@@ -959,6 +957,7 @@
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [fhyoga/picgo-plugin-watermark](https://github.com/fhyoga/picgo-plugin-watermark) - PicGo's watermark plugin
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [l0o0/jasminum](https://github.com/l0o0/jasminum) - A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
 - [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine
