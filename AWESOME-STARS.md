@@ -957,7 +957,7 @@
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [fhyoga/picgo-plugin-watermark](https://github.com/fhyoga/picgo-plugin-watermark) - PicGo's watermark plugin
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [l0o0/jasminum](https://github.com/l0o0/jasminum) - A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
 - [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine
