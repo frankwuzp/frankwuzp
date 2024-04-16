@@ -726,7 +726,7 @@
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 155 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 156 stars and 176 forks 🌟
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上的QQ/微信快速安装方式
 - [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
@@ -964,7 +964,7 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [l0o0/jasminum](https://github.com/l0o0/jasminum) - A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
-- [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine
+- [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine.
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
