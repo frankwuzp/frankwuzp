@@ -884,6 +884,7 @@
 
 ## TypeScript 
 
+- [cyhuajuan/FreeReNamer](https://github.com/cyhuajuan/FreeReNamer) - 功能强大又易用的文件批量重命名软件
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
