@@ -18,6 +18,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
+- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -214,6 +215,10 @@
 
 - [miiiku/hexo-theme-flexblock](https://github.com/miiiku/hexo-theme-flexblock) - 一个卡片类拟态风格的Hexo主题
 
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
 ## Go 
 
 - [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
@@ -274,7 +279,6 @@
 - [iptv-pro/iptv-pro.github.io](https://github.com/iptv-pro/iptv-pro.github.io) - provide iptv logo and epg
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
 - [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [chandrikadeb7/Hacktoberfest_2021](https://github.com/chandrikadeb7/Hacktoberfest_2021) - This repository aims to help code beginners with their first successful pull request and open source contribution. Happy coding!
 - [EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
@@ -955,7 +959,7 @@
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. You can run any Docker image on sealos, start high availability databases like
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [cloudflare/images.pages.dev](https://github.com/cloudflare/images.pages.dev) - 
