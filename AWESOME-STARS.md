@@ -565,7 +565,6 @@
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
 - [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer & Activited Microsoft Office For MacOS
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
-- [dongyubin/nuc8i5beh](https://github.com/dongyubin/nuc8i5beh) - nuc8系列黑苹果OpenCore EFI,支持机型：nuc8i5beh、nuc8i5bek、nuc8i7beh、nuc8i7hvk
 - [zearp/Nucintosh](https://github.com/zearp/Nucintosh) - Intel NUC Hackintosh Stuff
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [insoxin/China-Telecom-Helper](https://github.com/insoxin/China-Telecom-Helper) - 中国电信助手,白嫖年入保底256+话费 .每月金豆领取(lv6,1000金豆),每日签到(随机金豆),每日喂食宠物.每日登录奖励领取(5金豆),查看我的云盘(10金豆),翻牌 (10金豆),查看我的订单 (5金豆),打开消息 (100金豆),当日分享 (50金豆),浏览生活频道 (5金豆),查看我的金豆 (5金豆),关注直播 (5金豆),观看直播15s (5金豆),打开消息 (100金豆),答问卷
