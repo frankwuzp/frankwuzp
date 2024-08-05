@@ -526,6 +526,7 @@
 
 ## Others 
 
+- [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [danbao/auto-ssl](https://github.com/danbao/auto-ssl) - 
 - [wwb521/live](https://github.com/wwb521/live) - 更新高质量电视直播源，欢迎大家使用，永久免费
 - [JeoJay127/RapidEFI-Tool](https://github.com/JeoJay127/RapidEFI-Tool) - An excellent one-click EFI configuration tool based on OpenCore
