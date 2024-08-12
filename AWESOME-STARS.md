@@ -354,7 +354,7 @@
 - [thomasloven/hass-fontawesome](https://github.com/thomasloven/hass-fontawesome) - 🔹 Use icons from fontawesome in home-assistant
 - [talebook/talebook](https://github.com/talebook/talebook) - A simple books website. 一个简单的在线版个人书库。
 - [hoochanlon/hoochanlon](https://github.com/hoochanlon/hoochanlon) - 这一个Hacker Style风格化的自我简介JS模板，在线效果： https://hoochanlon.github.io/hoochanlon
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - A simple, delicate, and modern theme for the static site generator Hexo.
