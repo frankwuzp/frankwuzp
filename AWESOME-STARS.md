@@ -268,7 +268,7 @@
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/mhtml/md/pdf/docx文件
 - [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
-- [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
+- [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
 - [chris1111/My-Simple-OC-Themes](https://github.com/chris1111/My-Simple-OC-Themes) - Themes for use with OpenCore and OpenCanopy
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
@@ -449,6 +449,7 @@
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [xiaolai/most-common-american-idioms](https://github.com/xiaolai/most-common-american-idioms) - A book created by xiaolai with the help of ChatGPT and its TTS
 - [elroy93/12306spy](https://github.com/elroy93/12306spy) - 12306查票, 找到一张能上车的票
+- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [chenxwh/insanely-fast-whisper](https://github.com/chenxwh/insanely-fast-whisper) - Incredibly fast Whisper-large-v3
 - [LearnPrompt/LLMs-cookbook](https://github.com/LearnPrompt/LLMs-cookbook) - Examples and guides for using the LLMs
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -720,7 +721,7 @@
 - [wonderfulsuccess/weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler) - 稳定工作4年的微信公众号爬虫 Based on python and vuejs 微信公众号采集 Python爬虫 公众号采集 公众号爬虫 公众号备份
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
-- [InstantID/InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
+- [instantX-research/InstantID](https://github.com/instantX-research/InstantID) - InstantID: Zero-shot Identity-Preserving Generation in Seconds 🔥
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [spiritLHLS/speedtest.net-CN-ID](https://github.com/spiritLHLS/speedtest.net-CN-ID) - speedtest.net部分地区的测速节点合集(数据每天更新一次)
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
@@ -929,7 +930,6 @@
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
 - [cyhuajuan/FreeReNamer](https://github.com/cyhuajuan/FreeReNamer) - 功能强大又易用的文件批量重命名软件
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [zhlint-project/zhlint](https://github.com/zhlint-project/zhlint) - A linting tool for Chinese language.
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
