@@ -371,7 +371,6 @@
 - [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在
 - [Aras-ax/lottery](https://github.com/Aras-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
-- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [jsososo/Bing](https://github.com/jsososo/Bing) - Bing Wallpaper 必应壁纸
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [jieyou/lazyload](https://github.com/jieyou/lazyload) - 一个jQuery或zepto的图片延迟加载插件。An jQuery | zepto plugin for lazy loading images.
@@ -762,6 +761,7 @@
 - [niubiqigai/turtle](https://github.com/niubiqigai/turtle) - 使用python的turtle画樱花树，玫瑰，圣诞树，小猪佩奇，蛋糕，小黄人，贪吃蛇游戏61行代码
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
+- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
