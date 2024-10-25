@@ -157,7 +157,6 @@
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [RuiSantosdotme/Random-Nerd-Tutorials](https://github.com/RuiSantosdotme/Random-Nerd-Tutorials) - Random Nerd Tutorials Blog with Project Instructions »
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
-- [hctnm2/Open-Source-Enthusiast](https://github.com/hctnm2/Open-Source-Enthusiast) - Showcase Your Programming Skills here without hesitation
 - [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
