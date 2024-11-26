@@ -350,7 +350,7 @@
 - [Ice-Hazymoon/hugo-theme-luna](https://github.com/Ice-Hazymoon/hugo-theme-luna) - A simple, performance-first, SEO-friendly Hugo theme / 一个轻量，快速，SEO 友好的 Hugo 主题
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [sqqihao/EPubBuilder](https://github.com/sqqihao/EPubBuilder) - 一款在线的epub格式书籍编辑器
-- [talebook/talebook](https://github.com/talebook/talebook) - A simple books website. 一个简单的在线版个人书库。
+- [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
 - [hoochanlon/hoochanlon](https://github.com/hoochanlon/hoochanlon) - 这一个Hacker Style风格化的自我简介JS模板，在线效果： https://hoochanlon.github.io/hoochanlon
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
