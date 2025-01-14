@@ -529,6 +529,7 @@
 
 ## Others 
 
+- [lxgw/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong) - A Chinese serif font derived from IPAmj Mincho. 一款衍生于「IPAmj明朝」的中文宋体字型。
 - [ssnhd/tv](https://github.com/ssnhd/tv) - 
 - [evmn/Mind-Hacks](https://github.com/evmn/Mind-Hacks) - 刘未鹏 | Mind Hacks 思维改变生活
 - [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
