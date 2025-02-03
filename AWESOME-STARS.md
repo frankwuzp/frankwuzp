@@ -782,7 +782,7 @@
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 190 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 190 stars and 178 forks 🌟
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上的QQ/微信快速安装方式
 - [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
@@ -863,7 +863,7 @@
 - [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) - 
 - [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装脚本
-- [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
+- [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria2一键搞定。
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
