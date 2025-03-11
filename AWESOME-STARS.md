@@ -480,6 +480,7 @@
 
 ## Kotlin 
 
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [lizongying/my-tv-0](https://github.com/lizongying/my-tv-0) - 我的電視·〇 電視視頻播放軟件，可以自定義視頻源
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [twofas/2fas-android](https://github.com/twofas/2fas-android) - Source code for 2FAS Android app
@@ -629,7 +630,6 @@
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
-- [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents and  forum of FeedMe
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
@@ -798,7 +798,7 @@
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 195 stars and 179 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 196 stars and 179 forks 🌟
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上的QQ/微信快速安装方式
 - [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
