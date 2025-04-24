@@ -965,7 +965,7 @@
 
 ## TypeScript 
 
-- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings. Local-first & Extensible.
+- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - AI Notepad for back-to-back meetings. Local-first & Extensible.
 - [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
