@@ -540,6 +540,7 @@
 
 ## Others 
 
+- [atakanaltok/awesome-useful-websites](https://github.com/atakanaltok/awesome-useful-websites) - Hand-curated list of awesome and useful websites
 - [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
 - [suxuang/myIPTV](https://github.com/suxuang/myIPTV) - 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告
 - [it-job-blacklist/996ICU.job.blacklist_company](https://github.com/it-job-blacklist/996ICU.job.blacklist_company) - 主要城市996公司名单，互联网企业黑名单，找工作防止掉坑
