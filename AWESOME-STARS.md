@@ -501,6 +501,7 @@
 
 ## Lua 
 
+- [cloudwu/deepfuture](https://github.com/cloudwu/deepfuture) - 
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [ssnhd/rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
 - [JACKCHAN000/Rime-Quick5-Setup](https://github.com/JACKCHAN000/Rime-Quick5-Setup) - RIME 速成輸入法配置整合 for Windows小狼毫       功能：速成連打、廣東話詞庫、中英混輸、顏文字、Lua腳本
