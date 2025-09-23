@@ -804,7 +804,7 @@
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 221 stars and 187 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 221 stars and 188 forks 🌟
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上的QQ/微信快速安装方式
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
@@ -896,7 +896,7 @@
 - [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [dongyubin/nuc8i5beh](https://github.com/dongyubin/nuc8i5beh) - nuc8系列黑苹果OpenCore EFI,支持机型：nuc8i5beh、nuc8i5bek、nuc8i7beh、nuc8i7hvk
 - [Jiangmenghao/NUC8i5BEH](https://github.com/Jiangmenghao/NUC8i5BEH) - NUC8i5BEH Hackintosh
-- [bohanyang/debi](https://github.com/bohanyang/debi) - Reinstall your VPS to minimal Debian
+- [bohanwood/debi](https://github.com/bohanwood/debi) - Reinstall your VPS to minimal Debian
 - [node-red/node-red-docker](https://github.com/node-red/node-red-docker) - Repository for all things Node-RED and Docker related
 - [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
@@ -1025,7 +1025,7 @@
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native, application-centric cloud operating system that powers intelligent super applications. Set up development environments for any programming language or framework, deploy high-av
+- [labring/sealos](https://github.com/labring/sealos) - The Intelligent Cloud OS. Use AI to automate the full lifecycle of your development and production environments, from provisioning custom dev stacks and deploying self-optimizing databases (MySQL, Pos
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [cloudflare/images.pages.dev](https://github.com/cloudflare/images.pages.dev) - 
