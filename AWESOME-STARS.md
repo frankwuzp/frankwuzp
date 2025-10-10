@@ -500,7 +500,7 @@
 
 ## Lua 
 
-- [cloudwu/deepfuture](https://github.com/cloudwu/deepfuture) - 
+- [cloudwu/deepfuture](https://github.com/cloudwu/deepfuture) - An digital version of boardgame Deep Future
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [ssnhd/rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
 - [JACKCHAN000/Rime-Quick5-Setup](https://github.com/JACKCHAN000/Rime-Quick5-Setup) - RIME 速成輸入法配置整合 for Windows小狼毫       功能：速成連打、廣東話詞庫、中英混輸、顏文字、Lua腳本
@@ -1083,7 +1083,7 @@
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
-- [KKKyrie/giftie](https://github.com/KKKyrie/giftie) - 一个用来搞定「送礼问题」的「纯前端」解决方案
+- [KKKyrie/giftie](https://github.com/KKKyrie/giftie) - A pure-frontend solution for effortlessly resolving gift-giving dilemmas | 一个用来搞定「送礼问题」的「纯前端」解决方案
 - [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
 - [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
