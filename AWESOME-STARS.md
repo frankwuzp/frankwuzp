@@ -528,7 +528,6 @@
 
 ## Objective-C 
 
-- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 - [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge) - 📦 Plugin, App, and Theme store which includes plugin injection for macOS
 - [tzmax/V2RayXS](https://github.com/tzmax/V2RayXS) - GUI for xray-core on macOS
@@ -951,6 +950,7 @@
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. 轻灵的 Markdown 笔记本伴你写出妙言
+- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
