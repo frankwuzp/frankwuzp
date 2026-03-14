@@ -87,7 +87,6 @@
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 - [sypstraw/rpi4-osdev](https://github.com/sypstraw/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
@@ -151,6 +150,7 @@
 - [erickutcher/httpdownloader](https://github.com/erickutcher/httpdownloader) - HTTP(S) download manager that uses input/output completion ports (IOCP).
 - [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [BLumia/pineapple-pictures](https://github.com/BLumia/pineapple-pictures) - A homebrew lightweight image viewer.
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [RuiSantosdotme/Random-Nerd-Tutorials](https://github.com/RuiSantosdotme/Random-Nerd-Tutorials) - Random Nerd Tutorials Blog with Project Instructions »
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
