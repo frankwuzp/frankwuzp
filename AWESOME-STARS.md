@@ -324,7 +324,7 @@
 - [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 - [VonChange/utao](https://github.com/VonChange/utao) - 油桃TV 电视浏览器 可看各大卫视CCTV直播 无需电视VIP 适配爱奇艺等主流视频平台
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
-- [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
+- [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
 - [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 - [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 - [imfile-io/imfile-desktop](https://github.com/imfile-io/imfile-desktop) - A full-featured download manager.
@@ -1032,7 +1032,6 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault
 - [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 AI-powered online tool for making notion-style avatars.
-- [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live weather satellite imagery for your desktop background
 - [pengfeiw/threejs-case](https://github.com/pengfeiw/threejs-case) - threejs example
 - [imcuttle/mometa](https://github.com/imcuttle/mometa) - 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具 The coding tools which is visual code editing, auxiliary and Low-code metaprogramming for R&D
@@ -1076,7 +1075,7 @@
 - [Saul-Mirone/homura](https://github.com/Saul-Mirone/homura) - Homura RSS Reader
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [antfu/github-doorcat](https://github.com/antfu/github-doorcat) - 😼 Supercharges GitHub navbar for fast navigation [WIP]
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
+- [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
