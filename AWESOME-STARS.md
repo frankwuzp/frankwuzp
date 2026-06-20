@@ -593,7 +593,7 @@
 - [ChirmyRam/ChirmyRam-OneDrive-Repository](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository) - ChirmyRam OneDrive Repository
 - [netsarang/Xshell-ColorScheme](https://github.com/netsarang/Xshell-ColorScheme) - 250+ Xshell Color Schemes
 - [ljinkai/weekly](https://github.com/ljinkai/weekly) - 独立开发产品变现周刊，每周五发布。
-- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年5月6号更新 v5.5.4 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
+- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年6月20号更新 v5.5.8 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
 - [Infatuation-Fei/rule](https://github.com/Infatuation-Fei/rule) - 自用规则
 - [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource
 - [Geekhyt/weekly](https://github.com/Geekhyt/weekly) - 童欧巴的技术周刊，每周发布。🌰
@@ -1105,7 +1105,7 @@
 - [KKKyrie/giftie](https://github.com/KKKyrie/giftie) - A pure-frontend solution for effortlessly resolving gift-giving dilemmas | 一个用来搞定「送礼问题」的「纯前端」解决方案
 - [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
 - [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
-- [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Suppor
+- [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It als
 - [Tencent/tdesign](https://github.com/Tencent/tdesign) - Enterprise Design System
 - [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 - [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker) - Chrome Extension that tracks and limits time you spent on sites
