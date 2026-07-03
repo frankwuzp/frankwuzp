@@ -843,7 +843,7 @@
 - [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [EmilyEdna/SS-SSR-V2RAY](https://github.com/EmilyEdna/SS-SSR-V2RAY) - SS-SSR-V2RAY 订阅
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [AngelLiang/update_refwoks](https://github.com/AngelLiang/update_refwoks) - 修复知网导出 Refworks 格式字段与 zotero 不匹配问题
