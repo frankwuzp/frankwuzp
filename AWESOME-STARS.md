@@ -279,6 +279,7 @@
 - [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
 - [Licoy/fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes
 - [seeingtheory/Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory) - A visual introduction to probability and statistics.
+- [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
 - [shen-yu/iptv-list](https://github.com/shen-yu/iptv-list) - List of IPTV channels with the option to play them directly in the browser. 📺
 - [iptv-pro/iptv-pro.github.io](https://github.com/iptv-pro/iptv-pro.github.io) - provide iptv logo and epg
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
@@ -360,7 +361,6 @@
 - [Ice-Hazymoon/hugo-theme-luna](https://github.com/Ice-Hazymoon/hugo-theme-luna) - A simple, performance-first, SEO-friendly Hugo theme / 一个轻量，快速，SEO 友好的 Hugo 主题
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [sqqihao/EPubBuilder](https://github.com/sqqihao/EPubBuilder) - 一款在线的epub格式书籍编辑器
-- [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
 - [hoochanlon/hoochanlon](https://github.com/hoochanlon/hoochanlon) - 这一个Hacker Style风格化的自我简介JS模板，在线效果： https://hoochanlon.github.io/hoochanlon
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
