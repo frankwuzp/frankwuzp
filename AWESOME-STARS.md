@@ -36,7 +36,6 @@
 - [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PHP](#php)
-- [PLpgSQL](#plpgsql)
 - [Pascal](#pascal)
 - [PostScript](#postscript)
 - [Python](#python)
@@ -307,6 +306,7 @@
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
+- [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - One command to deploy a more powerful, self‑hosted alternative to SurveyMonkey.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [linesoft2/open2share](https://github.com/linesoft2/open2share) - An Android app that can convert open(view) files to share(send) files.
@@ -712,10 +712,6 @@
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 
-## PLpgSQL 
-
-- [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - One command to deploy a more powerful, self‑hosted alternative to SurveyMonkey.
-
 ## Pascal 
 
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
@@ -809,7 +805,7 @@
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A  shared budget web application
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 265 stars and 194 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 265 stars and 193 forks 🌟
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上的QQ/微信快速安装方式
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
@@ -972,7 +968,7 @@
 
 ## TypeScript 
 
-- [s010s/prehistoric-animal-museum](https://github.com/s010s/prehistoric-animal-museum) - A calm, parent-and-child 3D prehistoric animal museum.
+- [s010s/prehistoric-animal-museum](https://github.com/s010s/prehistoric-animal-museum) - A free, calm 3D prehistoric animal museum for children and families, with 18 interactive exhibits in English and Simplified Chinese.
 - [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI Agent productivity platform
 - [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) - 
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
