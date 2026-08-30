@@ -970,7 +970,7 @@
 
 ## TypeScript 
 
-- [s010s/prehistoric-animal-museum](https://github.com/s010s/prehistoric-animal-museum) - A free, calm 3D prehistoric animal museum for children and families, with 18 interactive exhibits in English and Simplified Chinese.
+- [s010s/prehistoric-animal-museum](https://github.com/s010s/prehistoric-animal-museum) - A free, open-source bilingual 3D museum where young children and their grown-ups explore prehistoric animals across land, sea, and sky.
 - [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI Agent productivity platform
 - [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) - 
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
