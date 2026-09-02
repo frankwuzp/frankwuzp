@@ -1062,7 +1062,7 @@
 - [Glen-Ni/pomotodo-app](https://github.com/Glen-Ni/pomotodo-app) - React+TypeScript仿番茄土豆应用
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-- [meowtec/imgo](https://github.com/meowtec/imgo) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
+- [meowtec/imgo](https://github.com/meowtec/imgo) - 🖼️ Image optimization app for macOS, Windows and Linux.
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 🔠Foreign language reading and translation assistant based on copy and translate.
