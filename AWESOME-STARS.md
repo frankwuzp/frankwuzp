@@ -979,7 +979,7 @@
 - [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI Agent productivity platform
 - [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) - 
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
-- [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
+- [open-slide/open-slide](https://github.com/open-slide/open-slide) - A slide framework built for agents.
 - [muxvo/muxvo-legacy](https://github.com/muxvo/muxvo-legacy) - 
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
