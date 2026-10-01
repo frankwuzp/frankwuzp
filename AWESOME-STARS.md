@@ -323,6 +323,7 @@
 
 ## JavaScript 
 
+- [laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 - [gtiipoi/ielts-practice](https://github.com/gtiipoi/ielts-practice) - IELTS Atlas practice system
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [pingfanfan/SBTI](https://github.com/pingfanfan/SBTI) - 
@@ -844,7 +845,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) - 机场推荐、Clash / V2ray 客户端配置与代理工具指南
 - [EmilyEdna/SS-SSR-V2RAY](https://github.com/EmilyEdna/SS-SSR-V2RAY) - SS-SSR-V2RAY 订阅
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
+- [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [AngelLiang/update_refwoks](https://github.com/AngelLiang/update_refwoks) - 修复知网导出 Refworks 格式字段与 zotero 不匹配问题
@@ -859,7 +860,7 @@
 
 ## Rust 
 
-- [LanRhyme/MicYou](https://github.com/LanRhyme/MicYou) - MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC.
+- [MicYou-Dev/MicYou](https://github.com/MicYou-Dev/MicYou) - MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
