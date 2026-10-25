@@ -82,7 +82,6 @@
 - [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [ad-si/Perspec](https://github.com/ad-si/Perspec) - Scriptable desktop app to correct the perspective of images
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。
@@ -297,6 +296,7 @@
 
 ## Haskell 
 
+- [ad-si/Perspec](https://github.com/ad-si/Perspec) - Scriptable desktop app to correct the perspective of images
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Java 
@@ -620,7 +620,6 @@
 - [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [notiondog/notion.dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
 - [alaskasquirrel/Email-newsletter-RSS](https://github.com/alaskasquirrel/Email-newsletter-RSS) - 邮箱 📧 newsletter RSS 荟萃 News
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 - [anhgraphy9779/VPS-Linux](https://github.com/anhgraphy9779/VPS-Linux) - 
 - [chasays/newsletter-list](https://github.com/chasays/newsletter-list) - 有趣，免费的 newsletter，欢迎推荐
@@ -819,6 +818,7 @@
 - [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 267 stars and 196 forks 🌟
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg) - 用于pvr iptv simple client电子节目单和节目图标
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上的QQ/微信快速安装方式
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
