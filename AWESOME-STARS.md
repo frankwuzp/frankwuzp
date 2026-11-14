@@ -326,7 +326,6 @@
 ## JavaScript 
 
 - [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) - 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
-- [JimLiu/open-artifacts](https://github.com/JimLiu/open-artifacts) - Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best
 - [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 - [gtiipoi/ielts-practice](https://github.com/gtiipoi/ielts-practice) - IELTS Atlas practice system
 - [pingfanfan/SBTI](https://github.com/pingfanfan/SBTI) - 
@@ -992,6 +991,7 @@
 
 ## TypeScript 
 
+- [Konata9/inkstone](https://github.com/Konata9/inkstone) - Theme from Chinese traditional color for IDE, Terminal, Agent, etc
 - [CatVinci-Studio/Textus](https://github.com/CatVinci-Studio/Textus) - The next-generation Integrated Writing Environment: documents, AI and plugins side by side. AI keeps your ink flowing; you hold the pen. Free and open source for macOS, Windows, Linux, iPhone and iPad
 - [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.
 - [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
